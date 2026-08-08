@@ -1,0 +1,71 @@
+K1  Särkijärvi 1-2-3 vain ahven
+10.10.2021
+Team Kiki - SK
+Team Hurrikaani - PIPO
+Procyon II - MV
+TSK - YK-Joukot
+TOK - TKN
+
+K2  Lehmilampi 2-3-3 vain ahven
+17.10.2021
+TOK - Team Kiki
+TKN - TSK
+YK-Joukot - Procyon II
+MV - Team Hurrikaani
+PIPO - SK
+
+K3  Pohjalampi 1-1-3 kl
+24.10.2021
+Team Kiki - Team Hurrikaani
+Procyon II - SK
+TSK - PIPO
+TOK - MV
+TKN - YK-Joukot
+
+K4  Meri 3-2-3 kl
+31.10.2021
+Team Kiki - Procyon II
+TSK - Team Hurrikaani
+TOK - SK
+TKN - PIPO
+YK-Joukot - MV
+
+K5  Kuikansalmi 2-2-3 kl
+7.11.2021
+TKN - Team Kiki
+YK-Joukot - TOK
+MV - TSK
+PIPO - Procyon II
+SK - Team Hurrikaani
+
+K6  Saarijärvi 2-2-3 normaali
+14.11.2021
+Team Kiki - YK-Joukot
+MV - TKN
+PIPO - TOK
+SK - TSK
+Team Hurrikaani - Procyon II
+
+K7  Lokkiluoto 2-2-3 kl
+21.11.2021
+Team Kiki - MV
+PIPO - YK-Joukot
+SK - TKN
+Team Hurrikaani - TOK
+Procyon II - TSK
+
+K8  Iso-Ruuhijärvi 1-1-3 Suurinta
+28.11.2021
+TSK - Team Kiki
+TOK - Procyon II
+TKN - Team Hurrikaani
+YK-Joukot - SK
+MV - PIPO
+
+K9  Koivusaari 2-3-3 kl
+5.12.2021
+PIPO - Team Kiki
+SK - MV
+Team Hurrikaani - YK-Joukot
+Procyon II - TKN
+TSK - TOK

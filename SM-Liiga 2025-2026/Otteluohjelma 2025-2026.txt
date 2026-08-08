@@ -1,0 +1,113 @@
+K1  Meri 3-1, kaikki lajit
+12.10.
+TKN - ei peliä
+Procyon II - Hurrikaani
+YK-joukot - ROTO
+MV - SATA
+
+K2  Linlonlahti 2-1, kaikki lajit kpl
+19.10.
+Hurrikaani - ei peliä
+ROTO - TKN
+SATA - Procyon II
+MV - YK-joukot
+
+K3  Vuontele 1-1 LP 2, kaikki lajit
+26.10.
+ROTO - ei peliä
+Hurrikaani - SATA
+TKN - MV
+Procyon II - YK-joukot
+
+K4  Ullavanjärvi 1-1 LP 1, kaikki lajit
+2.11.
+SATA - ei peliä
+MV - ROTO
+YK-joukot - Hurrikaani
+Procyon II - TKN
+
+K5  Lokkiluoto 3-2, vain ahven kpl
+9.11.
+MV - ei peliä
+SATA - YK-joukot
+ROTO - Procyon II
+Hurrikaani - TKN
+
+K6  Siika-valkeinen 2-1, kaikki lajit
+16.11.
+YK-joukot - ei peliä
+Procyon II - MV
+TKN - SATA
+Hurrikaani - ROTO
+
+K7  Palusjärvi 2-1, kaikki lajit
+23.11.
+Procyon II - ei peliä
+YK-joukot - TKN
+MV - Hurrikaani
+SATA - ROTO
+
+K8  Rautupuro 1-1, vain siika kpl
+30.11.
+TKN - ei peliä
+Hurrikaani - Procyon II
+ROTO - YK-joukot
+SATA - MV
+
+K9  Mäntylahti 3-1, kaikki lajit
+7.12.
+Hurrikaani - ei peliä
+TKN - ROTO
+Procyon II - SATA
+YK-joukot - MV
+
+K10  Kortejärvi 3-3, kaikki lajit
+14.12.
+ROTO - ei peliä
+SATA - Hurrikaani
+MV - TKN
+YK-joukot - Procyon II
+
+K11  Kolmisoppi 2-3, vain ahven
+21.12.
+SATA - ei peliä
+ROTO - MV
+Hurrikaani - YK-joukot
+TKN - Procyon II
+
+K12  Jormuanlahti 1-3 LP 1, kaikki lajit
+28.12.
+MV - ei peliä
+YK-joukot - SATA
+Procyon II - ROTO
+TKN - Hurrikaani
+
+K13  Mustalampi 1-2, normaali
+4.1.
+YK-joukot - ei peliä
+MV - Procyon II
+SATA - TKN
+ROTO - Hurrikaani
+
+K14  Taivallampi 3-2 LP 1, vain särkikalat kpl
+11.1.
+Procyon II - ei peliä
+TKN - YK-joukot
+Hurrikaani - MV
+ROTO - SATA
+
+PVE  Pohjalampi 1-1, kaikki lajit
+17.1.
+2 - 7
+3 - 6
+4 - 5
+
+VE  Muddusjärvi 2-1, kaikki lajit
+24./25.1.
+1 - RS heikoin
+RS toiseksi paras - RS toiseksi heikoin
+
+Mitalipelit  Korpipuro 3-1, normaali
+31.1./1.2.
+Pronssiottelu
+Finaali

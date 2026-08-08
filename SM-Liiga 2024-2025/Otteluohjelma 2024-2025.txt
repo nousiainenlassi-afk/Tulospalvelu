@@ -1,0 +1,112 @@
+K1  Saarijärvi 1-3 LP1, kaikki lajit
+6.10
+YK-joukot - ei peliä
+ROTO - MV
+Procyon II - SATA
+Hurrikaani - TKN
+
+K2  Surrinlampi 1-1, kaikki lajit
+13.10
+MV - ei peliä
+SATA - YK-joukot
+TKN - ROTO
+Hurrikaani - Procyon II
+
+K3  Kortejärvi 2-1, kaikki lajit
+20.10
+SATA - ei peliä
+MV - TKN
+YK-joukot - Hurrikaani
+ROTO - Procyon II
+
+K4  Vuontele 3-1 LP3, normaali
+27.10
+TKN - ei peliä
+Hurrikaani - SATA
+Procyon II - MV
+ROTO - YK-joukot
+
+K5  Siikakoski 1-1, normaali
+3.11
+Hurrikaani - ei peliä
+TKN - Procyon II
+SATA - ROTO
+MV - YK-joukot
+
+K6  Räväjärvi 3-3 LP2, normaali
+10.11
+Procyon II - ei peliä
+ROTO - Hurrikaani
+YK-joukot - TKN
+MV - SATA
+
+K7  Rautupuro 2-1, normaali
+17.11
+ROTO - ei peliä
+Procyon II - YK-joukot
+Hurrikaani - MV
+TKN - SATA
+
+K8  Kuopionlahti 1-1, vain ahven
+24.11
+YK-joukot - ei peliä
+MV - ROTO
+SATA - Procyon II
+TKN - Hurrikaani
+
+K9  Iso-Ruuhijärvi 2-2, Kirjo ja taimen
+1.12
+MV - ei peliä
+YK-joukot - SATA
+ROTO - TKN
+Procyon II - Hurrikaani
+
+K10  Niemisjärvet 2-1, 3 suurinta kalaa
+8.12
+SATA - ei peliä
+TKN - MV
+Hurrikaani - YK-joukot
+Procyon II - ROTO
+
+K11  Hossalaislammet 1-1, kaikki lajit
+15.12
+TKN - ei peliä
+SATA - Hurrikaani
+MV - Procyon II
+YK-joukot - ROTO
+
+K12  Vuolasniemi 2-2, 3 suurinta kalaa
+22.12
+Hurrikaani - ei peliä
+Procyon II - TKN
+ROTO - SATA
+YK-joukot - MV
+
+K13  Telkänlampi 3-1, 3 suurinta kalaa
+29.12
+Procyon II - ei peliä
+Hurrikaani - ROTO
+TKN - YK-joukot
+SATA - MV
+
+K14  Muddusjärvi 2-2, normaali
+5.1
+ROTO - ei peliä
+YK-joukot - Procyon II
+MV - Hurrikaani
+SATA - TKN
+
+PVE  Savilahti 3-3, kaikki lajit
+11.–12.1
+3 - 6
+4 - 5
+
+VE  Koivusaaren matalikko 3-3, kaikki lajit
+18.–19.1
+1 - 4/5
+2 - 3/6
+
+Mitalipelit  Venetjoen tekojärvi 1-4, vain made
+25.–26.1
+Pronssiottelu
+Finaali

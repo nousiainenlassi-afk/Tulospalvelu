@@ -1,0 +1,83 @@
+K1
+22.10.2017
+Team Tylsäkaira - SR - KuKa
+Kiki - KRONOS - TKN
+TOK - Team Hurrikaani - TSK
+SK - Procyon II - Team Jalokala
+
+K2
+29.10.2017
+TOK - Kiki - SR
+KRONOS - Team Tylsäkaira - SK
+Team Hurrikaani - Procyon II - KuKa
+TKN - TSK - Team Jalokala
+
+K3
+5.11.2017
+SR - SK - Team Hurrikaani
+TSK - Kiki - Team Tylsäkaira
+Procyon II - TKN - TOK
+Team Jalokala - KuKa - KRONOS
+
+K4
+12.11.2017
+TSK - Kiki - SR
+KRONOS - Procyon II - Team Hurrikaani
+Team Jalokala - Team Tylsäkaira - TOK
+TKN - SK - KuKa
+
+K5
+19.11.2017
+Team Hurrikaani - TKN - Team Tylsäkaira
+SK - TOK - TSK
+Procyon II - SR - Team Jalokala
+KuKa - Kiki - KRONOS
+
+K6
+26.11.2017
+SR - TKN - SK
+Kiki - Team Hurrikaani - Team Jalokala
+KuKa - TSK - Procyon II
+Team Tylsäkaira - TOK - KRONOS
+
+K7
+3.12.2017
+Team Jalokala - SK - Kiki
+Team Hurrikaani - KRONOS - SR
+TSK - TOK - KuKa
+Team Tylsäkaira - Procyon II - TKN
+
+K8
+10.12.2017
+Kiki - Procyon II - SR
+Team Jalokala - SK - TOK
+KRONOS - Team Tylsäkaira - KuKa
+TSK - TKN - Team Hurrikaani
+
+K9
+17.12.2017
+Kiki - Team Tylsäkaira - Procyon II
+SK - SR - TSK
+TKN - Team Jalokala - KRONOS
+TOK - KuKa - Team Hurrikaani
+
+K10
+20.12.2017
+SR - Team Tylsäkaira - TOK
+Procyon II - KuKa - Team Jalokala
+KRONOS - Kiki - TSK
+TKN - SK - Team Hurrikaani
+
+K11
+3.1.2018
+TOK - Kiki - TKN
+SK - Team Hurrikaani - Team Tylsäkaira
+KuKa - SR - Team Jalokala
+Procyon II - KRONOS - TSK
+
+K12
+7.1.2018
+KuKa - SK - Kiki
+Team Hurrikaani - TOK - Procyon II
+SR - KRONOS - TKN
+Team Tylsäkaira - Team Jalokala - TSK

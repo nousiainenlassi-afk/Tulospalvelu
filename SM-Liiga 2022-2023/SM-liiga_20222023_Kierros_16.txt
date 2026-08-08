@@ -1,0 +1,275 @@
+New LAN CLIENT competition started: Iso-Söimi. (20.3. 9:20/ 30 min/ Medium / Normal / Normal ice) [08.01.2023 19:59]												
+Competition finished. Results:											
+1. [Procyon II] OdeFish 12398 g										
+2. [SATA] KalaKettu 11587 g											
+3. [Procyon II] Havi jr 10890 g										
+4. [SATA] pantteri 10181 g											
+5. [Procyon II] ESME 10130 g										
+*6. [Procyon II] Olteri (A) 7937 g										
+7. [SATA] HaukiTerppa 7739 g											
+8. [SATA] Elastinen Elaska 7476 g											
+9. [Procyon II] Teemu 6971 g										
+10. [Procyon II] hauen leuka 6207 g										
+11. [SATA] joohn (C) 5805 g											
+12. [SATA] Anakonda 5185 g											
+13. [Procyon II] Jymy [FIN] 5074 g											
+14. [SATA] Klonkku 4684 g												
+15. [SATA] vultsi 3630 g												
+16. [Procyon II] Sevy (C) [FIN] 3430 g												
+17. [SATA] Tena 67 2841 g												
+18. [SATA] Vili 2430 g												
+19. [Procyon II] Lupu 10 2132 g												
+20. [Procyon II] Nikke 0 g (disq)												
+												
+New LAN CLIENT competition started: Haapolahti. (20.3. 9:20/ 30 min/ Medium / All species, quantity / Normal ice) [08.01.2023 20:36]												
+Competition finished. Results:											
+1. [SATA] vultsi 67 g											
+2. [SATA] Elastinen Elaska 67 g											
+3. [Procyon II] Havi jr 65 g										
+4. [Procyon II] OdeFish 65 g										
+5. [Procyon II] ESME 64 g										
+6. [Procyon II] Teemu 61 g										
+7. [SATA] Vili 60 g										
+8. [Procyon II] hauen leuka 58 g										
+9. [Procyon II] Jymy [FIN] 57 g										
+10. [Procyon II] Nikke 55 g										
+11. [SATA] pantteri 54 g											
+*12. [Procyon II] Olteri (A) 54 g										
+13. [SATA] Klonkku 54 g											
+14. [SATA] Anakonda 53 g											
+15. [Procyon II] Sevy (C) [FIN] 52 g												
+16. [SATA] HaukiTerppa 48 g												
+17. [SATA] joohn (C) 44 g												
+18. [SATA] Puolesta (A) 43 g												
+19. [Procyon II] Lupu 10 38 g												
+20. [SATA] KalaKettu 35 g												
+							
+New LAN CLIENT competition started: Hossalaislammet. (12.11. 9:20/ 30 min/ Medium / All species / Slippery ice) [08.01.2023 21:12]					
+Competition finished. Results:											
+1. [Procyon II] Nikke 9350 g											
+2. [SATA] pantteri 5095 g												
+3. [SATA] Vili 4708 g											
+4. [Procyon II] Lupu 10 4478 g											
+5. [Procyon II] hauen leuka 3110 g												
+6. [SATA] Elastinen Elaska 3017 g											
+7. [SATA] Anakonda 2849 g												
+8. [SATA] Puolesta (A) 2541 g												
+9. [SATA] joohn (C) 2344 g												
+10. [Procyon II] Sevy (C) [FIN] 1846 g											
+11. [Procyon II] Teemu 1554 g											
+12. [SATA] KalaKettu 1264 g												
+13. [SATA] vultsi 1146 g											
+14. [SATA] Klonkku 1131 g												
+15. [Procyon II] Jymy [FIN] 1068 g												
+16. [SATA] HaukiTerppa 549 g												
+17. [Procyon II] ESME 379 g												
+18. [Procyon II] Havi jr 285 g												
+19. [Procyon II] OdeFish 138 g												
+*20. [Procyon II] Olteri (A) 89 g												
+												
+New LAN SERVER competition started: Iso-Söimi. (11.3. 9:20/ 30 min/ Medium / Normal / Normal ice) [08.01.2023 20:00]							
+Competition finished. Results:											
+1. [Team Hurrikaani] Supernova 13627 g										
+2. [Team Hurrikaani] lareman 11282 g										
+3. [TSK] Matikka Koira 10844 g										
+4. [Team Hurrikaani] Jonseretti 10395 g										
+5. [Team Hurrikaani] Sieniliima 9872 g										
+*6. [Team Hurrikaani] aku ankka (A) [FIN] 8432 g										
+7. [Team Hurrikaani] Allu.K (A) 8376 g									
+8. [Team Hurrikaani] Lumimittari [FIN] 7669 g										
+9. [TSK] Sohjokauha 7574 g										
+10. [TSK] Anakondah Jr (C) 6960 g										
+11. [Team Hurrikaani] rohni [FIN] 5809 g										
+12. [Team Hurrikaani] Jägermeister [FIN] 5732 g										
+13. [TSK] KuKa [FIN] 5050 g											
+14. [TSK] VentoVieras [FIN] 3978 g												
+15. [Team Hurrikaani] koutsi 3697 g												
+16. [TSK] SkillStealer 2761 g												
+17. [TSK] Hawke20 2544 g												
+18. [TSK] Leebuu [FIN] 2435 g												
+19. [TSK] LäkeTheGreat [FIN] 2271 g												
+20. [TSK] Pelekone 1689 g												
+										
+New LAN SERVER competition started: Saarijärvi. (15.1. 9:20/ 30 min/ Medium / Only ruffe, quantity / Normal ice) [08.01.2023 20:36]					
+Competition finished. Results:											
+1. [Team Hurrikaani] Sieniliima 27 g										
+2. [Team Hurrikaani] Supernova 26 g										
+3. [Team Hurrikaani] koutsi 19 g										
+4. [Team Hurrikaani] lareman 18 g										
+5. [Team Hurrikaani] rohni [FIN] 18 g										
+6. [TSK] LäkeTheGreat [FIN] 16 g											
+7. [TSK] Sohjokauha 14 g											
+8. [TSK] Pelekone 13 g										
+9. [Team Hurrikaani] korpelannapakymppi10(C 13 g										
+*10. [Team Hurrikaani] aku ankka (A) [FIN] 12 g										
+11. [TSK] Hawke20 11 g									
+12. [Team Hurrikaani] Jani 10 g										
+13. [TSK] Matikka Koira 8 g											
+14. [Team Hurrikaani] Allu.K (A) 6 g												
+15. [TSK] SkillStealer 5 g												
+16. [Team Hurrikaani] Lumimittari [FIN] 5 g												
+17. [TSK] Leebuu [FIN] 4 g												
+18. [TSK] VentoVieras [FIN] 3 g												
+19. [TSK] KuKa [FIN] 1 g												
+20. [TSK] Anakondah Jr (C) 0 g (disq)												
+												
+New LAN SERVER competition started: Kolmisoppi. (17.11. 9:20/ 30 min/ Medium / All species / Normal ice) [08.01.2023 21:12]						
+Competition finished. Results:											
+*1. [Team Hurrikaani] aku ankka (A) [FIN] 6547 g										
+2. [TSK] Sohjokauha 6413 g									
+3. [Team Hurrikaani] Jägermeister [FIN] 6154 g									
+4. [Team Hurrikaani] lareman 4494 g										
+5. [TSK] Pelekone 3974 g										
+6. [Team Hurrikaani] Supernova 3544 g										
+7. [TSK] VentoVieras [FIN] 3082 g											
+8. [Team Hurrikaani] Jonseretti 2960 g										
+9. [Team Hurrikaani] Jani 2355 g										
+10. [Team Hurrikaani] Sieniliima 2188 g										
+11. [TSK] Matikka Koira 1934 g										
+12. [TSK] Leebuu [FIN] 1907 g										
+13. [Team Hurrikaani] korpelannapakymppi10(C 1737 g											
+14. [TSK] LäkeTheGreat [FIN] 1216 g												
+15. [TSK] Hawke20 1040 g												
+16. [TSK] KuKa [FIN] 653 g												
+17. [TSK] Anakondah Jr (C) 202 g												
+18. [Team Hurrikaani] rohni [FIN] 128 g												
+19. [Team Hurrikaani] Allu.K (A) 0 g (disq)	
+											
+New LAN CLIENT competition started: Iso-Söimi. (14.3. 9:20/ 30 min/ Medium / Normal / Normal ice) [08.01.2023 19:59]							
+Competition finished. Results:												
+1. [PIPO] Tössö 12625 g											
+2. [PIPO] Tintti (A) 10673 g											
+3. [TKN] Schape [FIN] 9992 g												
+4. [PIPO] joonapro [FIN] 8967 g											
+5. [PIPO] Valas [FIN] 8746 g											
+6. [TKN] Aanrii(C) 8033 g												
+7. [TKN] Markku 7584 g											
+8. [PIPO] PuliSher [FIN] 7489 g											
+9. [PIPO] Anr 7265 g										
+10. [PIPO] Arska.- 6583 g											
+*11. [PIPO] Morripoika (C) [FIN] 6449 g											
+12. [TKN] markku mato [FIN] 6380 g												
+13. [TKN] jalmari 5755 g											
+14. [TKN] Nökerö 5339 g													
+15. [TKN] -sla- [FIN] 5151 g													
+16. [TKN] NatoTaimen (C) 5019 g													
+17. [TKN] Juze [FIN] 4319 g													
+18. [PIPO] Nevi (A) 2656 g													
+19. [PIPO] Perza [FIN] 2380 g													
+20. [TKN] bruno 1825 g													
+										
+New LAN CLIENT competition started: Palusjärvi. (14.3. 9:20/ 30 min/ Medium / Carp family fish / Normal ice) [08.01.2023 20:35]						
+Competition finished. Results:												
+1. [PIPO] Anr 2371 g											
+2. [TKN] Juze [FIN] 2136 g												
+3. [PIPO] Valas [FIN] 2003 g										
+4. [TKN] Nökerö 1822 g											
+5. [PIPO] PuliSher [FIN] 1789 g											
+*6. [PIPO] Morripoika (C) [FIN] 1765 g											
+7. [PIPO] Tintti (A) 1762 g										
+8. [TKN] NatoTaimen (C) 1738 g												
+9. [PIPO] Tössö 1720 g										
+10. [PIPO] Perza [FIN] 1676 g											
+11. [TKN] -sla- [FIN] 1086 g												
+12. [TKN] jalmari 1084 g												
+13. [TKN] Markku 1055 g											
+14. [TKN] markku mato [FIN] 1021 g													
+15. [PIPO] joonapro [FIN] 828 g													
+16. [PIPO] Nevi (A) 815 g													
+17. [TKN] bruno 762 g													
+18. [TKN] Schape [FIN] 731 g													
+19. [PIPO] Arska.- 665 g													
+20. [TKN] Aanrii(C) 532 g													
+											
+New LAN CLIENT competition started: Vuontele. (14.3. 9:20/ 30 min/ Medium / All species / Normal ice) [08.01.2023 21:11]						
+Competition finished. Results:												
+*1. [PIPO] Morripoika (C) [FIN] 7624 g											
+2. [PIPO] Tintti (A) 6946 g											
+3. [PIPO] Tössö 6720 g										
+4. [TKN] markku mato [FIN] 6312 g											
+5. [TKN] NatoTaimen (C) 5963 g											
+6. [TKN] Markku 5849 g										
+7. [TKN] Aanrii(C) 5760 g											
+8. [PIPO] Nevi (A) 5717 g										
+9. [PIPO] Arska.- 5515 g										
+10. [PIPO] PuliSher [FIN] 5180 g										
+11. [TKN] -sla- [FIN] 4973 g												
+12. [TKN] Nökerö 4951 g											
+13. [TKN] Schape [FIN] 3172 g											
+14. [PIPO] Perza [FIN] 3131 g													
+15. [PIPO] joonapro [FIN] 2831 g													
+16. [PIPO] Valas [FIN] 2668 g													
+17. [TKN] bruno 2292 g													
+18. [TKN] Juze [FIN] 2252 g													
+19. [TKN] jalmari 1777 g													
+20. [PIPO] Anr 0 g (disq)													
+												
+New LAN SERVER competition started: Iso-Söimi. (16.3. 9:20/ 30 min/ Medium / Normal / Normal ice) [08.01.2023 19:59]							
+Competition finished. Results:												
+1. [MV] Pinturihaukka (A) 10335 g												
+2. [MV] Madekikk (C) 8215 g											
+3. [MV] Urheilukalastaja (A) [FIN] 6406 g												
+4. [SK] Sanna=) 6232 g										
+5. [SK] Björnis 6077 g										
+6. [MV] Resupekka 5738 g												
+7. [SK] Juku6.1 [FIN] 5582 g											
+8. [MV] Marko [FIN] 5380 g												
+9. [SK] Pirkko [FIN] 5116 g											
+*10. [SK] -heikki- (C) [FI] 4737 g											
+11. [MV] SatumiX [FIN] 4606 g											
+12. [SK] jäppinen [FIN] 4250 g										
+13. [MV] Hauentappaja (A) [FIN] 3947 g												
+14. [MV] Gandalf Harmaanieriä [FIN] 3464 g													
+15. [SK] Kokitar [FI] 3310 g													
+16. [SK] Seija [FIN] 3184 g													
+17. [SK] Ipe [FIN] 2518 g													
+18. [SK] Sarina (A) [FIN] 1969 g													
+19. [MV] Kwaler [FIN] 376 g													
+20. [MV] AtomiX (C) [FIN] 98 g													
+													
+													
+New LAN SERVER competition started: Lehmilampi. (16.3. 9:20/ 30 min/ Medium / Only silver bream / Normal ice) [08.01.2023 20:38]					
+Competition finished. Results:											
+1. [MV] SatumiX [FIN] 3003 g												
+2. [SK] Sarina (A) [FIN] 1533 g											
+3. [SK] Kala-ukko (C) 1458 g										
+4. [MV] Hauentappaja (A) [FIN] 1266 g												
+5. [MV] Marko [FIN] 1190 g												
+6. [MV] Pinturihaukka (A) 1071 g											
+7. [MV] Resupekka 1046 g											
+8. [MV] Madekikk (C) 892 g												
+9. [SK] Kokitar [FI] 821 g										
+10. [MV] Gandalf Harmaanieriä [FIN] 814 g												
+11. [SK] Pirkko [FIN] 808 g											
+12. [MV] AtomiX (C) [FIN] 696 g												
+13. [SK] Ipe [FIN] 647 g											
+14. [MV] Urheilukalastaja (A) [FIN] 615 g													
+*15. [SK] -heikki- (C) [FI] 569 g													
+16. [SK] Sanna=) 548 g													
+17. [SK] Seija [FIN] 541 g													
+18. [MV] Pikkumyy [FIN] 438 g													
+19. [SK] jäppinen [FIN] 47 g													
+20. [SK] Björnis 0 g													
+													
+New LAN SERVER competition started: Koivusaaren matalikko. (13.11. 9:20/ 30 min/ Medium / All species / Normal ice) [08.01.2023 21:15]					
+Competition finished. Results:												
+1. [MV] Resupekka 9049 g												
+2. [MV] Pinturihaukka (A) 7308 g												
+3. [MV] Madekikk (C) 7224 g										
+4. [MV] Urheilukalastaja (A) [FIN] 7170 g												
+5. [MV] Gandalf Harmaanieriä [FIN] 6680 g												
+6. [SK] Björnis 6423 g											
+7. [SK] Sanna=) 5993 g											
+8. [SK] Kokitar [FI] 5900 g											
+9. [SK] jäppinen [FIN] 5661 g											
+10. [MV] SatumiX [FIN] 5217 g												
+11. [SK] Sarina (A) [FIN] 5203 g											
+12. [SK] Seija [FIN] 4556 g											
+13. [MV] Hauentappaja (A) [FIN] 4436 g												
+14. [MV] AtomiX (C) [FIN] 4287 g													
+15. [MV] Pikkumyy [FIN] 3953 g													
+16. [MV] Marko [FIN] 3395 g													
+*17. [SK] -heikki- (C) [FI] 3222 g													
+18. [SK] Ipe [FIN] 3071 g													
+19. [SK] Pirkko [FIN] 2661 g													
+20. [SK] Kala-ukko (C) 2363 g

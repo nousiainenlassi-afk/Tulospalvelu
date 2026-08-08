@@ -1,0 +1,145 @@
+K1  Iso-Söimi 313 kl
+13.10.
+TOK - Team Tylsäkaira
+TSK - PIPO
+TKN - SK
+Team Hurrikaani - YK-Joukot
+Team Kiki - Procyon II
+
+K2  Jormuanlahti 113 kl, l2
+20.10.
+TOK - YK-Joukot
+SK - Procyon II
+PIPO - Team Kiki
+Team Tylsäkaira - Team Hurrikaani
+TSK - TKN
+
+K3  Vuolasniiva 313 kl
+27.10.
+TOK - PIPO
+Team Tylsäkaira - SK
+TSK - YK-Joukot
+TKN - Procyon II
+Team Hurrikaani - Team Kiki
+
+K4  Rautupuro 313 norm
+3.11.
+TOK - SK
+PIPO - YK-Joukot
+Team Tylsäkaira - Procyon II
+TSK - Team Kiki
+TKN - Team Hurrikaani
+
+K5  Venetjoki 213 kl
+10.11.
+TOK - TKN
+Team Hurrikaani - TSK
+Team Kiki - Team Tylsäkaira
+Procyon II - PIPO
+YK-Joukot - SK
+
+K6  Linlonlahti 243 vain made
+17.11.
+TOK - TSK
+TKN - Team Tylsäkaira
+Team Hurrikaani - PIPO
+Team Kiki - SK
+Procyon II - YK-Joukot
+
+K7  Lehmilampi 313 kl
+24.11.
+TOK - Team Kiki
+Procyon II - Team Hurrikaani
+YK-Joukot - TKN
+SK - TSK
+PIPO - Team Tylsäkaira
+
+K8  Tekenlampi 323 norm
+1.12.
+TOK - Procyon II
+YK-Joukot - Team Kiki
+SK - Team Hurrikaani
+PIPO - TKN
+Team Tylsäkaira - TSK
+
+K9  Pieni Särkinen 113 vain ahven
+8.12.
+TOK - Team Hurrikaani
+Team Kiki - TKN
+Procyon II - TSK
+YK-Joukot - Team Tylsäkaira
+SK - PIPO
+
+K10  Haapolahti 313 kl
+15.12.
+TKN - TOK
+TSK - Team Hurrikaani
+Team Tylsäkaira - Team Kiki
+PIPO - Procyon II
+SK - YK-Joukot
+
+K11  Niemisjärvet 123 kl
+22.12.
+Team Kiki - TOK
+Team Hurrikaani - Procyon II
+TKN - YK-Joukot
+TSK - SK
+Team Tylsäkaira - PIPO
+
+K12  Palusjärvi 313 vain särkikalat
+5.1.
+PIPO - TOK
+SK - Team Tylsäkaira
+YK-Joukot - TSK
+Procyon II - TKN
+Team Kiki - Team Hurrikaani
+
+K13  Savilahti 313 kl
+12.1.
+Team Tylsäkaira - TOK
+PIPO - TSK
+SK - TKN
+YK-Joukot - Team Hurrikaani
+Procyon II - Team Kiki
+
+K14  Vuontele 223 kl, l2
+19.1.
+YK-Joukot - TOK
+Procyon II - SK
+Team Kiki - PIPO
+Team Hurrikaani - Team Tylsäkaira
+TKN - TSK
+
+K15  Räväjärvi 113 kl kpl, l1
+26.1.
+SK - TOK
+YK-Joukot - PIPO
+Procyon II - Team Tylsäkaira
+Team Kiki - TSK
+Team Hurrikaani - TKN
+
+K16  Muddusjärvi 313 kl
+2.2.
+TSK - TOK
+Team Tylsäkaira - TKN
+PIPO - Team Hurrikaani
+SK - Team Kiki
+YK-Joukot - Procyon II
+
+K17  Meri 333 kl
+9.2.
+Procyon II - TOK
+Team Kiki - YK-Joukot
+Team Hurrikaani - SK
+TKN - PIPO
+TSK - Team Tylsäkaira
+
+K18  Koivusaari 243 vain made
+16.2.
+Team Hurrikaani - TOK
+TKN - Team Kiki
+TSK - Procyon II
+Team Tylsäkaira - YK-Joukot
+PIPO - SK
+
+Tämä on samassa muodossa kuin antamasi esimerkki: kierros, kilpailupaikka, päivämäärä ja ottelut, yksi ottelu per rivillä.

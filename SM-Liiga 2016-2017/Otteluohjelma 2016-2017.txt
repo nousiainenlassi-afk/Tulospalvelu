@@ -1,0 +1,71 @@
+K1
+30.10.2016
+Team Jalokalat - TKN - Team Kiki
+KuKa - KRONOS - TOK
+Procyon II - Team Hurrikaani - TSK
+
+K2
+6.11.2016
+Team Hurrikaani - Team Kiki - KuKa
+KRONOS - Team Jalokalat - Procyon II
+TSK - TOK - TKN
+
+K3
+13.11.2016
+Team Kiki - TSK - KRONOS
+TOK - Team Jalokalat - Team Hurrikaani
+TKN - KuKa - Procyon II
+
+K4
+20.11.2016
+Procyon II - TOK - Team Kiki
+KuKa - TSK - Team Jalokalat
+KRONOS - Team Hurrikaani - TKN
+
+K5
+27.11.2016
+Team Kiki - TKN - TOK
+TSK - KRONOS - Team Jalokalat
+Team Hurrikaani - Procyon II - KuKa
+
+K6
+4.12.2016
+Team Jalokalat - Team Kiki - Team Hurrikaani
+TKN - KuKa - TSK
+TOK - Procyon II - KRONOS
+
+K7
+11.12.2016
+Procyon II - TSK - Team Kiki
+KuKa - Team Jalokalat - TOK
+KRONOS - Team Hurrikaani - TKN
+
+K8
+18.12.2016
+Team Kiki - KuKa - KRONOS
+Team Jalokalat - Procyon II - TKN
+Team Hurrikaani - TOK - TSK
+
+K9
+8.1.2017
+TSK - KRONOS - Procyon II
+TOK - Team Kiki - Team Hurrikaani
+TKN - Team Jalokalat - KuKa
+
+K10
+15.1.2017
+Procyon II - KuKa - Team Kiki
+KRONOS - TOK - Team Jalokalat
+Team Hurrikaani - TKN - TSK
+
+K11
+22.1.2017
+TKN - Procyon II - TOK
+KuKa - KRONOS - Team Hurrikaani
+TSK - Team Kiki - Team Jalokalat
+
+K12
+29.1.2017
+Team Jalokalat - Team Hurrikaani - Procyon II
+Team Kiki - TKN - KRONOS
+TOK - TSK - KuKa

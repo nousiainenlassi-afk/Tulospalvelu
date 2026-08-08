@@ -1,0 +1,160 @@
+K1  Iso-Ruuhijärvi 1-1, kaikki lajit
+18.09
+TKN - YK-joukot
+SATA - MV
+Procyon II - PIPO
+TSK - SK
+Hurrikaani - ei peliä
+
+K2  Vuolasniiva 3-1, normaali
+25.09
+TKN - MV
+Hurrikaani - YK-joukot
+SK - SATA
+PIPO - TSK
+Procyon II - ei peliä
+
+K3  Ullavanjärvi LP3 2-4, vain made kpl
+02.10
+SATA - Hurrikaani
+PIPO - SK
+TSK - YK-joukot
+MV - Procyon II
+TKN - ei peliä
+
+K4  Lokkiluoto 2-1, kaikki lajit
+09.10
+YK-joukot - PIPO
+MV - TSK
+SK - Procyon II
+Hurrikaani - TKN
+SATA - ei peliä
+
+K5  Venetjoen tekojärvi 1-2, kaikki lajit
+16.10
+Procyon II - TSK
+YK-joukot - MV
+Hurrikaani - PIPO
+TKN - SATA
+SK - ei peliä
+
+K6  Vuontele LP2 3-3, vain kiiski kpl
+23.10
+MV - Hurrikaani
+TSK - SATA
+YK-joukot - SK
+Procyon II - TKN
+PIPO - ei peliä
+
+K7  Siikakoski 3-1, normaali
+30.10
+Hurrikaani - SK
+YK-joukot - Procyon II
+TSK - TKN
+PIPO - SATA
+MV - ei peliä
+
+K8  Räväjärvi LP2 2-1, kaikki lajit
+06.11
+Procyon II - Hurrikaani
+PIPO - MV
+TKN - SK
+YK-joukot - SATA
+TSK - ei peliä
+
+K9  Kuopionlahti 1-1, vain särkikalat kpl
+13.11
+TKN - PIPO
+TSK - Hurrikaani
+SATA - Procyon II
+MV - SK
+YK-joukot - ei peliä
+
+K10  Haapolahti 1-1, kaikki lajit
+20.11
+PIPO - YK-joukot
+TSK - MV
+Procyon II - SK
+TKN - Hurrikaani
+SATA - ei peliä
+
+K11  Mäntylahti 3-2, kaikki lajit
+27.11
+Hurrikaani - SATA
+SK - PIPO
+YK-joukot - TSK
+Procyon II - MV
+TKN - ei peliä
+
+K12  Peräjärvi 2-4, vain made
+04.12
+Hurrikaani - Procyon II
+MV - PIPO
+SK - TKN
+SATA - YK-joukot
+TSK - ei peliä
+
+K13  Taivallampi LP1 2-1, kaikki lajit
+11.12
+TSK - Procyon II
+MV - YK-joukot
+PIPO - Hurrikaani
+SATA - TKN
+SK - ei peliä
+
+K14  Kivijoki LP2 1-1, kaikki lajit
+18.12
+MV - TKN
+YK-joukot - Hurrikaani
+SATA - SK
+TSK - PIPO
+Procyon II - ei peliä
+
+K15  Pohjalampi 3-3, vain ahven kpl
+01.01
+SK - Hurrikaani
+Procyon II - YK-joukot
+TKN - TSK
+SATA - PIPO
+MV - ei peliä
+
+K16  Iso-Söimi 3-1, normaali
+08.01
+PIPO - TKN
+Hurrikaani - TSK
+Procyon II - SATA
+SK - MV
+YK-joukot - ei peliä
+
+K17  Viitalampi 2-2, kaikki lajit
+15.01
+Hurrikaani - MV
+SATA - TSK
+SK - YK-joukot
+TKN - Procyon II
+PIPO - ei peliä
+
+K18  Linlonlahti 1-1, vain ahven
+22.01
+YK-joukot - TKN
+MV - SATA
+PIPO - Procyon II
+SK - TSK
+Hurrikaani - ei peliä
+
+PVE  Koivusaaren matalikko 1-1, kaikki lajit
+28.01 / 29.01
+1 - 8
+2 - 7
+3 - 6
+4 - 5
+
+VE  Surrinlampi 3-1, kaikki lajit
+04.02 / 05.02
+1/8 - 4/5
+2/7 - 3/6
+
+Mitalipelit  Pieni-Särkinen 2-1, kaikki lajit
+11.02 / 12.02
+Pronssiottelu
+Finaali
