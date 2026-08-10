@@ -1,0 +1,35 @@
+Kierros 1A
+Lehmilampi
+Kortejärvi
+Vuontele
+Saarijärvi
+
+Kierros 1B
+Meri
+Venetjoen tekojärvi
+Niemisjärvet
+Viitalampi
+
+Kierros 2
+Kivijoki
+Jormuanlahti
+Mustalampi
+Metsälampi
+
+Kierros 3
+Linlonlahti
+Pieni särkinen
+Kuopionlahti
+Siikakoski
+
+Finaali 1
+Iso-söimi
+Korpipuro
+Lokkiluoto
+Åalusjärvi
+
+Finaali 2
+Haukilahti
+Mäntylahti
+Räväjärvi
+Haapolahti
