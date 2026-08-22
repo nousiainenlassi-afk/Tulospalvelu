@@ -1,0 +1,416 @@
+TOK (149) 4 - 6 (131) NYKY
+33-23, 26-30, 41-15, 25-31, 24-32
+
+New LAN CLIENT competition started: Iso-Söimi. (19.11. 9:20/ 30 min/ Medium / Normal / Slippery ice) [27.02.2021 20:01]
+Competition finished. Results:
+       1. [TOK] Epi (A) [FIN]  12974 g
+      *2. [TOK] ED (C) [FIN]  11056 g
+       3. [TOK] Quu-Ukko [FIN]  9986 g
+       4. [NYKY] Jari Pekka [FIN]  8678 g
+       5. [NYKY] Marko [FIN]  8599 g
+       6. [NYKY] Nevi (A) [FIN]  7414 g
+       7. [NYKY] Hauentappaja [FIN]  7112 g
+       8. [TOK] Ipe [FIN]  6513 g
+       9. [TOK] $T$  5711 g
+       10. [NYKY] AtomiX (A) [FIN]  5261 g
+       11. [TOK] oke [FIN]  4924 g
+       12. [NYKY] Urheilukalastaja [FIN]  4416 g
+       13. [NYKY] *Memmu*(C) [FIN]  4149 g
+       14. [TOK] Anakonda (A) [FIN]  3453 g
+       15. [TOK] Allu.K  2912 g
+       16. [NYKY] Tössö  2832 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Taimen   Lukumäärä: 1   Yhteispaino: 739   (Suurin: 739 g)
+     Rautu   Lukumäärä: 5   Yhteispaino: 2473   (Suurin: 670 g)
+     H.nieriä   Lukumäärä: 1   Yhteispaino: 722   (Suurin: 722 g)
+     Harjus   Lukumäärä: 13   Yhteispaino: 5434   (Suurin: 637 g)
+     Siika   Lukumäärä: 5   Yhteispaino: 1688   (Suurin: 419 g)
+     Epi (A):
+     Ahven   Lukumäärä: 5   Yhteispaino: 210   (Suurin: 53 g)
+     Rautu   Lukumäärä: 7   Yhteispaino: 2456   (Suurin: 486 g)
+     Siika   Lukumäärä: 30   Yhteispaino: 10308   (Suurin: 759 g)
+     Quu-Ukko:
+     Harjus   Lukumäärä: 15   Yhteispaino: 5880   (Suurin: 466 g)
+     Siika   Lukumäärä: 14   Yhteispaino: 4106   (Suurin: 532 g)
+     Jari Pekka:
+     Taimen   Lukumäärä: 3   Yhteispaino: 2699   (Suurin: 1066 g)
+     Rautu   Lukumäärä: 17   Yhteispaino: 5979   (Suurin: 494 g)
+     Marko:
+     Ahven   Lukumäärä: 13   Yhteispaino: 249   (Suurin: 34 g)
+     Rautu   Lukumäärä: 6   Yhteispaino: 2535   (Suurin: 584 g)
+     H.nieriä   Lukumäärä: 1   Yhteispaino: 1125   (Suurin: 1125 g)
+     Harjus   Lukumäärä: 13   Yhteispaino: 4566   (Suurin: 413 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 124   (Suurin: 124 g)
+     Nevi (A):
+     Rautu   Lukumäärä: 1   Yhteispaino: 348   (Suurin: 348 g)
+     Harjus   Lukumäärä: 14   Yhteispaino: 5140   (Suurin: 508 g)
+     Siika   Lukumäärä: 5   Yhteispaino: 1926   (Suurin: 456 g)
+     Hauentappaja:
+     Ahven   Lukumäärä: 11   Yhteispaino: 386   (Suurin: 56 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 1020   (Suurin: 1020 g)
+     Rautu   Lukumäärä: 3   Yhteispaino: 1197   (Suurin: 466 g)
+     Harjus   Lukumäärä: 12   Yhteispaino: 4251   (Suurin: 418 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 258   (Suurin: 258 g)
+     Ipe:
+     Ahven   Lukumäärä: 3   Yhteispaino: 102   (Suurin: 49 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 1492   (Suurin: 1492 g)
+     Rautu   Lukumäärä: 3   Yhteispaino: 862   (Suurin: 352 g)
+     Harjus   Lukumäärä: 2   Yhteispaino: 1095   (Suurin: 585 g)
+     Siika   Lukumäärä: 8   Yhteispaino: 2962   (Suurin: 586 g)
+     $T$:
+     Taimen   Lukumäärä: 1   Yhteispaino: 940   (Suurin: 940 g)
+     Rautu   Lukumäärä: 14   Yhteispaino: 4771   (Suurin: 509 g)
+     AtomiX (A):
+     Ahven   Lukumäärä: 5   Yhteispaino: 150   (Suurin: 41 g)
+     Rautu   Lukumäärä: 6   Yhteispaino: 2821   (Suurin: 605 g)
+     Harjus   Lukumäärä: 7   Yhteispaino: 2290   (Suurin: 407 g)
+     oke:
+     Ahven   Lukumäärä: 2   Yhteispaino: 80   (Suurin: 41 g)
+     Rautu   Lukumäärä: 9   Yhteispaino: 4844   (Suurin: 1197 g)
+     Urheilukalastaja:
+     Ahven   Lukumäärä: 3   Yhteispaino: 95   (Suurin: 38 g)
+     Rautu   Lukumäärä: 1   Yhteispaino: 254   (Suurin: 254 g)
+     Harjus   Lukumäärä: 10   Yhteispaino: 3720   (Suurin: 609 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 347   (Suurin: 126 g)
+     *Memmu*(C):
+     Ahven   Lukumäärä: 2   Yhteispaino: 37   (Suurin: 23 g)
+     Harjus   Lukumäärä: 9   Yhteispaino: 3360   (Suurin: 456 g)
+     Siika   Lukumäärä: 6   Yhteispaino: 752   (Suurin: 153 g)
+     Anakonda (A):
+     Rautu   Lukumäärä: 6   Yhteispaino: 2591   (Suurin: 674 g)
+     Harjus   Lukumäärä: 1   Yhteispaino: 487   (Suurin: 487 g)
+     Siika   Lukumäärä: 2   Yhteispaino: 375   (Suurin: 273 g)
+     Allu.K:
+     Ahven   Lukumäärä: 4   Yhteispaino: 113   (Suurin: 36 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 679   (Suurin: 679 g)
+     Rautu   Lukumäärä: 2   Yhteispaino: 652   (Suurin: 371 g)
+     Harjus   Lukumäärä: 3   Yhteispaino: 1117   (Suurin: 388 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 351   (Suurin: 135 g)
+     Tössö:
+     Ahven   Lukumäärä: 9   Yhteispaino: 252   (Suurin: 42 g)
+     Rautu   Lukumäärä: 2   Yhteispaino: 965   (Suurin: 552 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 1615   (Suurin: 661 g)
+     Quu-Ukko Host:
+     Isoin kala:
+     Ipe  Taimen  1492 g
+
+New LAN CLIENT competition started: Pohjalampi. (17.1. 14:20/ 30 min/ Medium / Normal / Normal ice) [27.02.2021 20:37]
+Competition finished. Results:
+      *1. [TOK] ED (C) [FIN]  3115 g
+       2. [NYKY] Tössö  2714 g
+       3. [NYKY] Urheilukalastaja [FIN]  2347 g
+       4. [NYKY] *Memmu*(C) [FIN]  1574 g
+       5. [TOK] Allu.K  1568 g
+       6. [NYKY] Jari Pekka [FIN]  1360 g
+       7. [TOK] Quu-Ukko [FIN]  1240 g
+       8. [TOK] oke [FIN]  1194 g
+       9. [TOK] $T$  1104 g
+       10. [TOK] KalaKettu [FIN]  939 g
+       11. [TOK] Anakonda (A) [FIN]  763 g
+       12. [TOK] Epi (A) [FIN]  758 g
+       13. [NYKY] Gandalf Harmaanieriä [FIN]  680 g
+       14. [NYKY] Nevi (A) [FIN]  513 g
+       15. [NYKY] Kairavastaava [FIN]  385 g
+       16. [NYKY] AtomiX (A) [FIN]  272 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Ahven   Lukumäärä: 13   Yhteispaino: 3044   (Suurin: 370 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 71   (Suurin: 36 g)
+     Tössö:
+     Ahven   Lukumäärä: 35   Yhteispaino: 2395   (Suurin: 152 g)
+     Särki   Lukumäärä: 10   Yhteispaino: 319   (Suurin: 40 g)
+     Urheilukalastaja:
+     Ahven   Lukumäärä: 19   Yhteispaino: 2277   (Suurin: 156 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 70   (Suurin: 38 g)
+     *Memmu*(C):
+     Ahven   Lukumäärä: 11   Yhteispaino: 1536   (Suurin: 164 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 38   (Suurin: 38 g)
+     Allu.K:
+     Ahven   Lukumäärä: 26   Yhteispaino: 754   (Suurin: 50 g)
+     Kiiski   Lukumäärä: 11   Yhteispaino: 234   (Suurin: 27 g)
+     Särki   Lukumäärä: 21   Yhteispaino: 814   (Suurin: 59 g)
+     Jari Pekka:
+     Ahven   Lukumäärä: 8   Yhteispaino: 757   (Suurin: 113 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 465   (Suurin: 465 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 138   (Suurin: 39 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 14   Yhteispaino: 1240   (Suurin: 119 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 50   (Suurin: 28 g)
+     oke:
+     Ahven   Lukumäärä: 11   Yhteispaino: 1194   (Suurin: 162 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 244   (Suurin: 44 g)
+     $T$:
+     Ahven   Lukumäärä: 10   Yhteispaino: 1104   (Suurin: 252 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 25   (Suurin: 25 g)
+     KalaKettu:
+     Ahven   Lukumäärä: 23   Yhteispaino: 939   (Suurin: 120 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 5   Yhteispaino: 763   (Suurin: 279 g)
+     Kiiski   Lukumäärä: 5   Yhteispaino: 77   (Suurin: 23 g)
+     Epi (A):
+     Ahven   Lukumäärä: 8   Yhteispaino: 758   (Suurin: 109 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 66   (Suurin: 23 g)
+     Gandalf Harmaanieriä:
+     Ahven   Lukumäärä: 6   Yhteispaino: 580   (Suurin: 139 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 170   (Suurin: 32 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 100   (Suurin: 100 g)
+     Nevi (A):
+     Ahven   Lukumäärä: 21   Yhteispaino: 513   (Suurin: 43 g)
+     Kiiski   Lukumäärä: 13   Yhteispaino: 254   (Suurin: 28 g)
+     Kairavastaava:
+     Ahven   Lukumäärä: 3   Yhteispaino: 385   (Suurin: 129 g)
+     Kiiski   Lukumäärä: 5   Yhteispaino: 119   (Suurin: 32 g)
+     AtomiX (A):
+     Ahven   Lukumäärä: 3   Yhteispaino: 243   (Suurin: 95 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 62   (Suurin: 34 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 29   (Suurin: 29 g)
+     Quu-Ukko Host:
+     Isoin kala:
+     Jari Pekka  Hauki  465 g
+
+41-15, 25-31, 24-32
+
+New LAN CLIENT competition started: Kuopionlahti. (10.1. 18:30/ 30 min/ Medium / Only burbot / Normal ice) [28.02.2021 20:00]
+Competition finished. Results:
+       1. [TOK] MD [FIN]  14142 g
+       2. [NYKY] AtomiX (A) [FIN]  9875 g
+       3. [TOK] Kottage [FIN]  9153 g
+      *4. [TOK] ED (C) [FIN]  8311 g
+       5. [TOK] oke [FIN]  8186 g
+       6. [TOK] Allu.K  7812 g
+       7. [TOK] Quu-Ukko [FIN]  7154 g
+       8. [NYKY] *Memmu*(C) [FIN]  6287 g
+       9. [NYKY] Hauentappaja [FIN]  6216 g
+       10. [NYKY] Urheilukalastaja [FIN]  5567 g
+       11. [NYKY] Tössö  5148 g
+       12. [TOK] Epi (A) [FIN]  4865 g
+       13. [NYKY] SatumiX [FIN]  4058 g
+       14. [NYKY] -lepa- [FIN]  3774 g
+       15. [TOK] Ipe [FIN]  3504 g
+       16. [NYKY] Gandalf Harmaanieriä [FIN]  2308 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Made   Lukumäärä: 14   Yhteispaino: 8311   (Suurin: 1062 g)
+     MD:
+     Made   Lukumäärä: 28   Yhteispaino: 14142   (Suurin: 1302 g)
+     AtomiX (A):
+     Made   Lukumäärä: 16   Yhteispaino: 9875   (Suurin: 1364 g)
+     Kottage:
+     Made   Lukumäärä: 15   Yhteispaino: 9153   (Suurin: 1853 g)
+     oke:
+     Made   Lukumäärä: 18   Yhteispaino: 8186   (Suurin: 1144 g)
+     Allu.K:
+     Made   Lukumäärä: 8   Yhteispaino: 7812   (Suurin: 2403 g)
+     Quu-Ukko:
+     Made   Lukumäärä: 11   Yhteispaino: 7154   (Suurin: 1395 g)
+     *Memmu*(C):
+     Made   Lukumäärä: 17   Yhteispaino: 6287   (Suurin: 613 g)
+     Hauentappaja:
+     Made   Lukumäärä: 11   Yhteispaino: 6216   (Suurin: 1151 g)
+     Urheilukalastaja:
+     Made   Lukumäärä: 15   Yhteispaino: 5567   (Suurin: 1045 g)
+     Tössö:
+     Made   Lukumäärä: 13   Yhteispaino: 5148   (Suurin: 1020 g)
+     Epi (A):
+     Made   Lukumäärä: 13   Yhteispaino: 4865   (Suurin: 1543 g)
+     SatumiX:
+     Made   Lukumäärä: 8   Yhteispaino: 4058   (Suurin: 989 g)
+     -lepa-:
+     Made   Lukumäärä: 9   Yhteispaino: 3774   (Suurin: 983 g)
+     Ipe:
+     Made   Lukumäärä: 10   Yhteispaino: 3504   (Suurin: 495 g)
+     Gandalf Harmaanieriä:
+     Made   Lukumäärä: 4   Yhteispaino: 2308   (Suurin: 1300 g)
+     Quu-Ukko Host:
+     Isoin kala:
+     Allu.K  Made  2403 g
+
+New LAN CLIENT competition started: Kivijoki. (10.1. 14:20/ 30 min/ Medium / Only perch / Normal ice) [28.02.2021 20:36]
+Competition finished. Results:
+       1. [TOK] Quu-Ukko [FIN]  1569 g
+       2. [NYKY] -lepa- [FIN]  1212 g
+       3. [NYKY] Urheilukalastaja [FIN]  959 g
+       4. [NYKY] Tössö  865 g
+       5. [TOK] Ipe [FIN]  805 g
+       6. [TOK] Kottage [FIN]  731 g
+       7. [NYKY] Hauentappaja [FIN]  639 g
+      *8. [TOK] ED (C) [FIN]  619 g
+       9. [NYKY] *Memmu*(C) [FIN]  577 g
+       10. [TOK] $T$  510 g
+       11. [TOK] Epi (A) [FIN]  427 g
+       12. [TOK] Allu.K  345 g
+       13. [NYKY] SatumiX [FIN]  315 g
+       14. [NYKY] Nevi (A) [FIN]  285 g
+       15. [TOK] oke [FIN]  217 g
+       16. [NYKY] AtomiX (A) [FIN]  135 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Ahven   Lukumäärä: 19   Yhteispaino: 619   (Suurin: 134 g)
+     Kiiski   Lukumäärä: 10   Yhteispaino: 191   (Suurin: 32 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 86   (Suurin: 86 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 216   (Suurin: 81 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 36   (Suurin: 36 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 18   Yhteispaino: 1569   (Suurin: 184 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 135   (Suurin: 135 g)
+     Särki   Lukumäärä: 6   Yhteispaino: 110   (Suurin: 25 g)
+     Seipi   Lukumäärä: 5   Yhteispaino: 137   (Suurin: 44 g)
+     -lepa-:
+     Ahven   Lukumäärä: 21   Yhteispaino: 1212   (Suurin: 158 g)
+     Urheilukalastaja:
+     Ahven   Lukumäärä: 9   Yhteispaino: 959   (Suurin: 178 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 121   (Suurin: 43 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 325   (Suurin: 325 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 79   (Suurin: 79 g)
+     Tössö:
+     Ahven   Lukumäärä: 26   Yhteispaino: 865   (Suurin: 66 g)
+     Kiiski   Lukumäärä: 21   Yhteispaino: 526   (Suurin: 48 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 37   (Suurin: 24 g)
+     Ipe:
+     Ahven   Lukumäärä: 15   Yhteispaino: 805   (Suurin: 145 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 56   (Suurin: 21 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 29   (Suurin: 29 g)
+     Kottage:
+     Ahven   Lukumäärä: 17   Yhteispaino: 731   (Suurin: 145 g)
+     Kiiski   Lukumäärä: 16   Yhteispaino: 359   (Suurin: 66 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 41   (Suurin: 14 g)
+     Hauentappaja:
+     Ahven   Lukumäärä: 19   Yhteispaino: 639   (Suurin: 125 g)
+     Kiiski   Lukumäärä: 5   Yhteispaino: 113   (Suurin: 42 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 566   (Suurin: 566 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 85   (Suurin: 85 g)
+     *Memmu*(C):
+     Ahven   Lukumäärä: 14   Yhteispaino: 577   (Suurin: 192 g)
+     Kiiski   Lukumäärä: 6   Yhteispaino: 116   (Suurin: 64 g)
+     $T$:
+     Ahven   Lukumäärä: 6   Yhteispaino: 510   (Suurin: 174 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 129   (Suurin: 29 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 142   (Suurin: 79 g)
+     Seipi   Lukumäärä: 3   Yhteispaino: 152   (Suurin: 61 g)
+     Epi (A):
+     Ahven   Lukumäärä: 12   Yhteispaino: 427   (Suurin: 150 g)
+     Kiiski   Lukumäärä: 6   Yhteispaino: 114   (Suurin: 35 g)
+     Allu.K:
+     Ahven   Lukumäärä: 11   Yhteispaino: 345   (Suurin: 65 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 185   (Suurin: 54 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 21   (Suurin: 21 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 37   (Suurin: 37 g)
+     SatumiX:
+     Ahven   Lukumäärä: 16   Yhteispaino: 315   (Suurin: 29 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 136   (Suurin: 37 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 32   (Suurin: 22 g)
+     Nevi (A):
+     Ahven   Lukumäärä: 5   Yhteispaino: 285   (Suurin: 154 g)
+     Kiiski   Lukumäärä: 11   Yhteispaino: 277   (Suurin: 52 g)
+     oke:
+     Ahven   Lukumäärä: 11   Yhteispaino: 217   (Suurin: 27 g)
+     Hauki   Lukumäärä: 2   Yhteispaino: 1282   (Suurin: 1120 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 31   (Suurin: 31 g)
+     AtomiX (A):
+     Ahven   Lukumäärä: 4   Yhteispaino: 135   (Suurin: 73 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 28   (Suurin: 28 g)
+     Quu-Ukko Host:
+     Isoin kala:
+     *Memmu*(C)  Ahven  192 g
+
+New LAN CLIENT competition started: Saarijärvi. (19.3. 9:20/ 30 min/ Medium / All species / Normal ice) [28.02.2021 21:13]
+Competition finished. Results:
+       1. [TOK] Allu.K  4896 g
+       2. [NYKY] Tössö  4689 g
+       3. [NYKY] Hauentappaja [FIN]  4412 g
+       4. [TOK] Quu-Ukko [FIN]  3470 g
+       5. [NYKY] Jari Pekka [FIN]  3442 g
+       6. [NYKY] Marko [FIN]  3386 g
+      *7. [TOK] ED (C) [FIN]  3214 g
+       8. [TOK] Epi (A) [FIN]  3124 g
+       9. [NYKY] Urheilukalastaja [FIN]  2619 g
+       10. [NYKY] Nevi (A) [FIN]  2578 g
+       11. [TOK] MD [FIN]  2156 g
+       12. [TOK] oke [FIN]  1926 g
+       13. [NYKY] AtomiX (A) [FIN]  1794 g
+       14. [TOK] KalaKettu [FIN]  1528 g
+       15. [TOK] $T$  1420 g
+       16. [NYKY] *Memmu*(C) [FIN]  839 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Ahven   Lukumäärä: 39   Yhteispaino: 2172   (Suurin: 129 g)
+     Kiiski   Lukumäärä: 15   Yhteispaino: 398   (Suurin: 39 g)
+     Kuore   Lukumäärä: 4   Yhteispaino: 103   (Suurin: 29 g)
+     Särki   Lukumäärä: 13   Yhteispaino: 541   (Suurin: 53 g)
+     Allu.K:
+     Ahven   Lukumäärä: 43   Yhteispaino: 4286   (Suurin: 348 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 15   (Suurin: 15 g)
+     Särki   Lukumäärä: 8   Yhteispaino: 187   (Suurin: 28 g)
+     Seipi   Lukumäärä: 2   Yhteispaino: 84   (Suurin: 57 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 324   (Suurin: 324 g)
+     Tössö:
+     Ahven   Lukumäärä: 47   Yhteispaino: 3587   (Suurin: 268 g)
+     Kiiski   Lukumäärä: 11   Yhteispaino: 359   (Suurin: 47 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 616   (Suurin: 616 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 127   (Suurin: 41 g)
+     Hauentappaja:
+     Ahven   Lukumäärä: 28   Yhteispaino: 1309   (Suurin: 104 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 147   (Suurin: 41 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 105   (Suurin: 60 g)
+     Lahna   Lukumäärä: 9   Yhteispaino: 2851   (Suurin: 473 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 15   Yhteispaino: 909   (Suurin: 120 g)
+     Kiiski   Lukumäärä: 8   Yhteispaino: 154   (Suurin: 28 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 54   (Suurin: 30 g)
+     Lahna   Lukumäärä: 7   Yhteispaino: 2353   (Suurin: 452 g)
+     Jari Pekka:
+     Ahven   Lukumäärä: 6   Yhteispaino: 453   (Suurin: 165 g)
+     Kuha   Lukumäärä: 4   Yhteispaino: 2662   (Suurin: 1183 g)
+     Särki   Lukumäärä: 9   Yhteispaino: 327   (Suurin: 61 g)
+     Marko:
+     Ahven   Lukumäärä: 22   Yhteispaino: 1319   (Suurin: 137 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 102   (Suurin: 19 g)
+     Särki   Lukumäärä: 16   Yhteispaino: 529   (Suurin: 54 g)
+     Lahna   Lukumäärä: 5   Yhteispaino: 1436   (Suurin: 354 g)
+     Epi (A):
+     Ahven   Lukumäärä: 13   Yhteispaino: 2073   (Suurin: 267 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 927   (Suurin: 927 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 27   (Suurin: 27 g)
+     Seipi   Lukumäärä: 2   Yhteispaino: 97   (Suurin: 50 g)
+     Urheilukalastaja:
+     Ahven   Lukumäärä: 28   Yhteispaino: 1517   (Suurin: 124 g)
+     Kiiski   Lukumäärä: 14   Yhteispaino: 347   (Suurin: 40 g)
+     Särki   Lukumäärä: 15   Yhteispaino: 373   (Suurin: 44 g)
+     Seipi   Lukumäärä: 9   Yhteispaino: 382   (Suurin: 53 g)
+     Nevi (A):
+     Ahven   Lukumäärä: 5   Yhteispaino: 172   (Suurin: 51 g)
+     Kiiski   Lukumäärä: 19   Yhteispaino: 457   (Suurin: 43 g)
+     Kuha   Lukumäärä: 3   Yhteispaino: 1876   (Suurin: 1007 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 73   (Suurin: 50 g)
+     MD:
+     Ahven   Lukumäärä: 42   Yhteispaino: 2156   (Suurin: 122 g)
+     oke:
+     Ahven   Lukumäärä: 28   Yhteispaino: 1393   (Suurin: 106 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 159   (Suurin: 42 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 97   (Suurin: 44 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 277   (Suurin: 277 g)
+     AtomiX (A):
+     Ahven   Lukumäärä: 17   Yhteispaino: 1007   (Suurin: 92 g)
+     Kiiski   Lukumäärä: 9   Yhteispaino: 178   (Suurin: 28 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 413   (Suurin: 413 g)
+     Kuore   Lukumäärä: 1   Yhteispaino: 30   (Suurin: 30 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 166   (Suurin: 52 g)
+     KalaKettu:
+     Ahven   Lukumäärä: 21   Yhteispaino: 968   (Suurin: 97 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 444   (Suurin: 444 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 116   (Suurin: 37 g)
+     $T$:
+     Ahven   Lukumäärä: 10   Yhteispaino: 1168   (Suurin: 568 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 62   (Suurin: 38 g)
+     Kuore   Lukumäärä: 3   Yhteispaino: 76   (Suurin: 30 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 89   (Suurin: 56 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 25   (Suurin: 25 g)
+     *Memmu*(C):
+     Ahven   Lukumäärä: 6   Yhteispaino: 415   (Suurin: 110 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 90   (Suurin: 30 g)
+     Särki   Lukumäärä: 8   Yhteispaino: 303   (Suurin: 67 g)
+     Salakka   Lukumäärä: 1   Yhteispaino: 31   (Suurin: 31 g)
+     Quu-Ukko Host:
+     Isoin kala:
+     Jari Pekka  Kuha  1183 g

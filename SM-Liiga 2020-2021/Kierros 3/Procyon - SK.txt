@@ -1,0 +1,290 @@
+Procyon II (116) - (52) SK
+36-20, 40-16, 40-16
+
+--> Kala-ukko (C) [SK] [FIN] joined the game (ip: 37.98.134.67). [01.11.2020 19:54] [/banaddress 37.98.134.67 60 Kala-ukko_(C)_[SK]_[FIN] 617808477 740da45725917575638183ec6eec71c80ceafdae] [v1.6 Store]
+<-- Teemu [Procyon II] left the game. [01.11.2020 19:54]
+<-- hauen leuka (C) [Procyon II] left the game. [01.11.2020 19:56]
+<-- Kala-ukko (C) [SK] [FIN] left the game. [01.11.2020 19:58]
+New LAN SERVER competition started: Iso-Ruuhijärvi. (20.3. 9:20/ 30 min/ Medium / All species, quantity / Normal ice) [01.11.2020 20:00]
+Competition finished. Results:
+       1. [Procyon II] Fiskarna  42 g
+       2. [Procyon II] Olteri  40 g
+       3. [Procyon II] Ozzman [FIN]  35 g
+       4. [SK] Eikka [FIN]  32 g
+       5. [SK] Pirkko [FIN]  29 g
+       6. [Procyon II] ESME  26 g
+       7. [SK] Juku6.1 (A) [FIN]  26 g
+       8. [Procyon II] Tonza_888  26 g
+       9. [SK] jäppinen [FIN]  22 g
+       10. [Procyon II] Nikke [FIN]  21 g
+       11. [SK] Kokitar [FI]  21 g
+       12. [Procyon II] Kala-Vale [FIN]  20 g
+       13. [SK] kala-akka [FIN]  17 g
+       14. [Procyon II] Jymy (A)  14 g
+       15. [SK] Sanna=) (A) [FIN]  13 g
+       16. [SK] TUKE NUKEM [FIN]  12 g
+      *17. [Procyon II] Lupu 10  0 g
+     Omat kalat:
+     Fiskarna:
+     Ahven   Lukumäärä: 22   Yhteispaino: 3003   (Suurin: 550 g)
+     Kiiski   Lukumäärä: 16   Yhteispaino: 545   (Suurin: 49 g)
+     Kirjolohi   Lukumäärä: 2   Yhteispaino: 2554   (Suurin: 1422 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 88   (Suurin: 68 g)
+     Olteri:
+     Ahven   Lukumäärä: 14   Yhteispaino: 1288   (Suurin: 160 g)
+     Kiiski   Lukumäärä: 12   Yhteispaino: 386   (Suurin: 44 g)
+     Kirjolohi   Lukumäärä: 4   Yhteispaino: 4965   (Suurin: 1471 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 772   (Suurin: 772 g)
+     Siika   Lukumäärä: 2   Yhteispaino: 576   (Suurin: 457 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 247   (Suurin: 59 g)
+     Ozzman:
+     Ahven   Lukumäärä: 2   Yhteispaino: 208   (Suurin: 128 g)
+     Kiiski   Lukumäärä: 9   Yhteispaino: 293   (Suurin: 45 g)
+     Siika   Lukumäärä: 10   Yhteispaino: 1314   (Suurin: 350 g)
+     Särki   Lukumäärä: 14   Yhteispaino: 526   (Suurin: 65 g)
+     Eikka:
+     Ahven   Lukumäärä: 9   Yhteispaino: 866   (Suurin: 193 g)
+     Kiiski   Lukumäärä: 14   Yhteispaino: 448   (Suurin: 40 g)
+     Kirjolohi   Lukumäärä: 2   Yhteispaino: 2519   (Suurin: 1439 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 770   (Suurin: 770 g)
+     Siika   Lukumäärä: 6   Yhteispaino: 1333   (Suurin: 264 g)
+     Pirkko:
+     Ahven   Lukumäärä: 19   Yhteispaino: 1141   (Suurin: 127 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 70   (Suurin: 40 g)
+     Kirjolohi   Lukumäärä: 3   Yhteispaino: 4237   (Suurin: 1558 g)
+     Siika   Lukumäärä: 5   Yhteispaino: 951   (Suurin: 247 g)
+     ESME:
+     Ahven   Lukumäärä: 2   Yhteispaino: 712   (Suurin: 430 g)
+     Kiiski   Lukumäärä: 13   Yhteispaino: 460   (Suurin: 47 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 1748   (Suurin: 1748 g)
+     Siika   Lukumäärä: 4   Yhteispaino: 452   (Suurin: 119 g)
+     Särki   Lukumäärä: 6   Yhteispaino: 211   (Suurin: 61 g)
+     Juku6.1 (A):
+     Ahven   Lukumäärä: 7   Yhteispaino: 730   (Suurin: 273 g)
+     Kiiski   Lukumäärä: 6   Yhteispaino: 178   (Suurin: 44 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 1423   (Suurin: 1423 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 338   (Suurin: 125 g)
+     Särki   Lukumäärä: 9   Yhteispaino: 383   (Suurin: 67 g)
+     Tonza_888:
+     Ahven   Lukumäärä: 6   Yhteispaino: 727   (Suurin: 219 g)
+     Kiiski   Lukumäärä: 5   Yhteispaino: 180   (Suurin: 39 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 819   (Suurin: 819 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 117   (Suurin: 117 g)
+     Särki   Lukumäärä: 13   Yhteispaino: 611   (Suurin: 74 g)
+     jäppinen:
+     Ahven   Lukumäärä: 8   Yhteispaino: 1134   (Suurin: 234 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 124   (Suurin: 35 g)
+     Kirjolohi   Lukumäärä: 3   Yhteispaino: 4830   (Suurin: 1992 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 704   (Suurin: 704 g)
+     Siika   Lukumäärä: 2   Yhteispaino: 213   (Suurin: 122 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 128   (Suurin: 51 g)
+     Nikke:
+     Ahven   Lukumäärä: 11   Yhteispaino: 288   (Suurin: 45 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 14   (Suurin: 14 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 341   (Suurin: 341 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 1535   (Suurin: 1535 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 241   (Suurin: 64 g)
+     Kokitar:
+     Ahven   Lukumäärä: 9   Yhteispaino: 573   (Suurin: 179 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 900   (Suurin: 900 g)
+     Särki   Lukumäärä: 11   Yhteispaino: 516   (Suurin: 77 g)
+     Kala-Vale:
+     Kiiski   Lukumäärä: 4   Yhteispaino: 121   (Suurin: 37 g)
+     Siika   Lukumäärä: 8   Yhteispaino: 2508   (Suurin: 431 g)
+     Särki   Lukumäärä: 8   Yhteispaino: 233   (Suurin: 53 g)
+     kala-akka:
+     Ahven   Lukumäärä: 10   Yhteispaino: 722   (Suurin: 163 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 26   (Suurin: 13 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 1941   (Suurin: 1941 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 141   (Suurin: 48 g)
+     Jymy (A):
+     Kiiski   Lukumäärä: 3   Yhteispaino: 103   (Suurin: 38 g)
+     Siika   Lukumäärä: 4   Yhteispaino: 1044   (Suurin: 475 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 294   (Suurin: 75 g)
+     Sanna=) (A):
+     Kiiski   Lukumäärä: 5   Yhteispaino: 174   (Suurin: 41 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 1212   (Suurin: 1212 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 216   (Suurin: 55 g)
+     TUKE NUKEM:
+     Siika   Lukumäärä: 5   Yhteispaino: 1525   (Suurin: 437 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 268   (Suurin: 55 g)
+     Isoin kala:
+     jäppinen  Kirjolohi  1992 g
+
+--> hauen leuka (C) [Procyon II] joined the game (ip: 87.95.96.37). [01.11.2020 20:31] [/banaddress 87.95.96.37 60 hauen_leuka_(C)_[Procyon_II] 3749903213 ] [v1.6 Store]
+--> Teemu [Procyon II] joined the game (ip: 84.251.169.17). [01.11.2020 20:31] [/banaddress 84.251.169.17 60 Teemu_[Procyon_II] 563654669 4e1570160fdec7abf1eeb546f0b3ccd58db6c47b] [v1.6 Store]
+--> Sevy (A) [Procyon II] [FIN] joined the game (ip: 86.115.134.249). [01.11.2020 20:31] [/banaddress 86.115.134.249 60 Sevy_(A)_[Procyon_II]_[FIN] 3935790502 4df11a6941a71ae4b4ba1afa0dd9684864586cd5] [v1.5]
+<-- Nikke [Procyon II] [FIN] left the game. [01.11.2020 20:31]
+--> Kala-ukko (C) [SK] [FIN] joined the game (ip: 37.98.134.67). [01.11.2020 20:32] [/banaddress 37.98.134.67 60 Kala-ukko_(C)_[SK]_[FIN] 617808477 740da45725917575638183ec6eec71c80ceafdae] [v1.6 Store]
+<-- Tonza_888 [Procyon II] left the game. [01.11.2020 20:32]
+<-- Pirkko [SK] [FIN] left the game. [01.11.2020 20:32]
+<-- Ozzman [Procyon II] [FIN] left the game. [01.11.2020 20:32]
+--> -heikki- (C) [SK] [FI] joined the game (ip: 84.240.87.18). [01.11.2020 20:32] [/banaddress 84.240.87.18 60 -heikki-_(C)_[SK]_[FI] 2371631702 e5e7f6b3815151c9e1fe78616f789b5feef934d8] [v1.6 Store]
+<-- Eikka [SK] [FIN] left the game. [01.11.2020 20:33]
+<-- hauen leuka (C) [Procyon II] left the game. [01.11.2020 20:34]
+--> hauen leuka (C) [Procyon II] joined the game (ip: 87.95.96.37). [01.11.2020 20:34] [/banaddress 87.95.96.37 60 hauen_leuka_(C)_[Procyon_II] 3749903213 ] [v1.6 Store]
+<-- Jymy (A) [Procyon II] left the game. [01.11.2020 20:34]
+New LAN SERVER competition started: Vuolasniva. (20.11. 9:20/ 30 min/ Medium / Normal / Slippery ice) [01.11.2020 20:36]
+--> Jymy (A) [Procyon II] joined the game (ip: 86.115.143.249). [01.11.2020 21:05] [/banaddress 86.115.143.249 60 Jymy_(A)_[Procyon_II] 3804840229 d3be28f501d97fcd315a0b16feaac1fc9a451cd5] [v1.6 Store]
+<-- Jymy (A) [Procyon II] left the game. [01.11.2020 21:05]
+Competition finished. Results:
+       1. [Procyon II] Sevy (A) [FIN]  7251 g
+       2. [Procyon II] Kala-Vale [FIN]  6570 g
+       3. [Procyon II] Olteri  6320 g
+       4. [SK] kala-akka [FIN]  5952 g
+       5. [Procyon II] Fiskarna  5713 g
+       6. [Procyon II] Teemu  5101 g
+       7. [SK] Kokitar [FI]  5074 g
+       8. [SK] Kala-ukko (C) [FIN]  4333 g
+       9. [SK] jäppinen [FIN]  4244 g
+      *10. [Procyon II] Lupu 10  3914 g
+       11. [Procyon II] hauen leuka (C)  3793 g
+       12. [SK] -heikki- (C) [FI]  3507 g
+       13. [SK] Juku6.1 (A) [FIN]  3235 g
+       14. [SK] Sanna=) (A) [FIN]  2833 g
+       15. [Procyon II] ESME  2663 g
+       16. [SK] TUKE NUKEM [FIN]  1907 g
+     Omat kalat:
+     Harjus   Lukumäärä: 11   Yhteispaino: 3229   (Suurin: 428 g)
+     Siika   Lukumäärä: 2   Yhteispaino: 685   (Suurin: 427 g)
+     Sevy (A):
+     Rautu   Lukumäärä: 21   Yhteispaino: 7251   (Suurin: 658 g)
+     Kala-Vale:
+     Rautu   Lukumäärä: 60   Yhteispaino: 6570   (Suurin: 233 g)
+     Olteri:
+     Harjus   Lukumäärä: 19   Yhteispaino: 5758   (Suurin: 433 g)
+     Siika   Lukumäärä: 2   Yhteispaino: 562   (Suurin: 352 g)
+     kala-akka:
+     Harjus   Lukumäärä: 10   Yhteispaino: 3193   (Suurin: 474 g)
+     Siika   Lukumäärä: 8   Yhteispaino: 2759   (Suurin: 594 g)
+     Fiskarna:
+     Hauki   Lukumäärä: 1   Yhteispaino: 1028   (Suurin: 1028 g)
+     Harjus   Lukumäärä: 17   Yhteispaino: 4685   (Suurin: 358 g)
+     Teemu:
+     Rautu   Lukumäärä: 10   Yhteispaino: 5101   (Suurin: 1437 g)
+     Kokitar:
+     Taimen   Lukumäärä: 1   Yhteispaino: 935   (Suurin: 935 g)
+     Harjus   Lukumäärä: 5   Yhteispaino: 1364   (Suurin: 311 g)
+     Siika   Lukumäärä: 11   Yhteispaino: 2775   (Suurin: 604 g)
+     Kala-ukko (C):
+     Hauki   Lukumäärä: 1   Yhteispaino: 1045   (Suurin: 1045 g)
+     Harjus   Lukumäärä: 6   Yhteispaino: 1687   (Suurin: 329 g)
+     Siika   Lukumäärä: 5   Yhteispaino: 1601   (Suurin: 592 g)
+     jäppinen:
+     Harjus   Lukumäärä: 14   Yhteispaino: 4244   (Suurin: 379 g)
+     hauen leuka (C):
+     Harjus   Lukumäärä: 14   Yhteispaino: 3793   (Suurin: 321 g)
+     -heikki- (C):
+     Rautu   Lukumäärä: 9   Yhteispaino: 3360   (Suurin: 631 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 147   (Suurin: 147 g)
+     Juku6.1 (A):
+     Rautu   Lukumäärä: 1   Yhteispaino: 283   (Suurin: 283 g)
+     Harjus   Lukumäärä: 12   Yhteispaino: 2952   (Suurin: 368 g)
+     Sanna=) (A):
+     Rautu   Lukumäärä: 18   Yhteispaino: 2500   (Suurin: 209 g)
+     Harjus   Lukumäärä: 1   Yhteispaino: 333   (Suurin: 333 g)
+     ESME:
+     Rautu   Lukumäärä: 7   Yhteispaino: 2663   (Suurin: 708 g)
+     TUKE NUKEM:
+     Harjus   Lukumäärä: 7   Yhteispaino: 1907   (Suurin: 325 g)
+     Isoin kala:
+     Teemu  Rautu  1437 g
+
+--> Jymy (A) [Procyon II] joined the game (ip: 86.115.143.249). [01.11.2020 21:07] [/banaddress 86.115.143.249 60 Jymy_(A)_[Procyon_II] 3804840229 d3be28f501d97fcd315a0b16feaac1fc9a451cd5] [v1.6 Store]
+<-- TUKE NUKEM [SK] [FIN] left the game. [01.11.2020 21:07]
+<-- ESME [Procyon II] left the game. [01.11.2020 21:07]
+<-- Kala-Vale [Procyon II] [FIN] left the game. [01.11.2020 21:07]
+--> Nikke [Procyon II] [FIN] joined the game (ip: 87.92.138.179). [01.11.2020 21:07] [/banaddress 87.92.138.179 60 Nikke_[Procyon_II]_[FIN] 756983296 e797bd7f6eb97595de01ee839e962f5ff1352c3b] [v1.6 Store]
+<-- Sanna=) (A) [SK] [FIN] left the game. [01.11.2020 21:07]
+--> Tonza_888 [Procyon II] joined the game (ip: 176.72.5.78). [01.11.2020 21:07] [/banaddress 176.72.5.78 60 Tonza_888_[Procyon_II] 2478818183 6a578a0367d50f8ee2547585e88975c0bed54a37] [v1.6 Store]
+<-- Fiskarna [Procyon II] left the game. [01.11.2020 21:08]
+--> Pirkko [SK] [FIN] joined the game (ip: 84.240.127.131). [01.11.2020 21:08] [/banaddress 84.240.127.131 60 Pirkko_[SK]_[FIN] 1967078542 ] [v1.6 Store]
+--> Eikka [SK] [FIN] joined the game (ip: 85.76.112.210). [01.11.2020 21:10] [/banaddress 85.76.112.210 60 Eikka_[SK]_[FIN] 4042795627 ] [v1.6 Store]
+New LAN SERVER competition started: Kolmisoppi. (20.11. 9:20/ 30 min/ Medium / All species / Normal ice) [01.11.2020 21:11]
+Competition finished. Results:
+       1. [SK] jäppinen [FIN]  6710 g
+       2. [Procyon II] hauen leuka (C)  4561 g
+       3. [Procyon II] Tonza_888  3984 g
+       4. [Procyon II] Nikke [FIN]  3774 g
+       5. [Procyon II] Olteri  3546 g
+      *6. [Procyon II] Lupu 10  3537 g
+       7. [Procyon II] Sevy (A) [FIN]  3464 g
+       8. [SK] Kala-ukko (C) [FIN]  3097 g
+       9. [SK] Pirkko [FIN]  2631 g
+       10. [SK] Kokitar [FI]  2204 g
+       11. [Procyon II] Teemu  2100 g
+       12. [SK] kala-akka [FIN]  1556 g
+       13. [Procyon II] Jymy (A)  1032 g
+       14. [SK] Eikka [FIN]  797 g
+       15. [SK] -heikki- (C) [FI]  146 g
+       16. [SK] Juku6.1 (A) [FIN]  97 g
+     Omat kalat:
+     Ahven   Lukumäärä: 5   Yhteispaino: 151   (Suurin: 38 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 54   (Suurin: 24 g)
+     Kirjolohi   Lukumäärä: 3   Yhteispaino: 3259   (Suurin: 1206 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 73   (Suurin: 41 g)
+     jäppinen:
+     Ahven   Lukumäärä: 4   Yhteispaino: 99   (Suurin: 33 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 49   (Suurin: 30 g)
+     Kirjolohi   Lukumäärä: 6   Yhteispaino: 6526   (Suurin: 1440 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 36   (Suurin: 26 g)
+     hauen leuka (C):
+     Ahven   Lukumäärä: 26   Yhteispaino: 970   (Suurin: 78 g)
+     Kiiski   Lukumäärä: 10   Yhteispaino: 190   (Suurin: 30 g)
+     Kirjolohi   Lukumäärä: 3   Yhteispaino: 3401   (Suurin: 1600 g)
+     Tonza_888:
+     Ahven   Lukumäärä: 1   Yhteispaino: 28   (Suurin: 28 g)
+     Kirjolohi   Lukumäärä: 4   Yhteispaino: 3879   (Suurin: 1050 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 77   (Suurin: 44 g)
+     Nikke:
+     Ahven   Lukumäärä: 1   Yhteispaino: 37   (Suurin: 37 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 35   (Suurin: 19 g)
+     Kirjolohi   Lukumäärä: 4   Yhteispaino: 3702   (Suurin: 1040 g)
+     Olteri:
+     Ahven   Lukumäärä: 11   Yhteispaino: 322   (Suurin: 39 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 61   (Suurin: 25 g)
+     Kirjolohi   Lukumäärä: 3   Yhteispaino: 3108   (Suurin: 1375 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 55   (Suurin: 32 g)
+     Sevy (A):
+     Ahven   Lukumäärä: 8   Yhteispaino: 320   (Suurin: 59 g)
+     Kiiski   Lukumäärä: 5   Yhteispaino: 133   (Suurin: 39 g)
+     Kirjolohi   Lukumäärä: 3   Yhteispaino: 3011   (Suurin: 1330 g)
+     Kala-ukko (C):
+     Ahven   Lukumäärä: 11   Yhteispaino: 499   (Suurin: 83 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 57   (Suurin: 28 g)
+     Kirjolohi   Lukumäärä: 2   Yhteispaino: 2541   (Suurin: 1534 g)
+     Pirkko:
+     Ahven   Lukumäärä: 5   Yhteispaino: 146   (Suurin: 39 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 44   (Suurin: 17 g)
+     Kirjolohi   Lukumäärä: 3   Yhteispaino: 2405   (Suurin: 944 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 36   (Suurin: 36 g)
+     Kokitar:
+     Ahven   Lukumäärä: 1   Yhteispaino: 30   (Suurin: 30 g)
+     Kirjolohi   Lukumäärä: 2   Yhteispaino: 2174   (Suurin: 1280 g)
+     Teemu:
+     Ahven   Lukumäärä: 1   Yhteispaino: 23   (Suurin: 23 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 10   (Suurin: 10 g)
+     Kirjolohi   Lukumäärä: 2   Yhteispaino: 2044   (Suurin: 1035 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 23   (Suurin: 23 g)
+     kala-akka:
+     Ahven   Lukumäärä: 9   Yhteispaino: 300   (Suurin: 42 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 17   (Suurin: 17 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 1214   (Suurin: 1214 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 25   (Suurin: 25 g)
+     Jymy (A):
+     Ahven   Lukumäärä: 4   Yhteispaino: 106   (Suurin: 33 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 53   (Suurin: 20 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 873   (Suurin: 873 g)
+     Eikka:
+     Ahven   Lukumäärä: 2   Yhteispaino: 84   (Suurin: 44 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 45   (Suurin: 18 g)
+     Kirjolohi   Lukumäärä: 1   Yhteispaino: 668   (Suurin: 668 g)
+     -heikki- (C):
+     Ahven   Lukumäärä: 2   Yhteispaino: 75   (Suurin: 38 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 71   (Suurin: 21 g)
+     Juku6.1 (A):
+     Ahven   Lukumäärä: 3   Yhteispaino: 97   (Suurin: 36 g)
+     Isoin kala:
+     hauen leuka (C)  Kirjolohi  1600 g
+
+<-- Jymy (A) [Procyon II] left the game. [01.11.2020 21:43]

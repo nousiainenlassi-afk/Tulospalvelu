@@ -1,0 +1,256 @@
+Team Tylsäkaira (82) 2 - 4 (86) TOK
+17-39, 38-18, 27-29
+
+New LAN SERVER competition started: Telkänlampi. (14.3. 9:20/ 30 min/ Medium / Normal / Normal ice) [29.11.2020 19:59]
+Competition finished. Results:
+       1. [TOK] Allu.K [FIN]  1277 g
+       2. [TOK] Epi (A) [FIN]  864 g
+       3. [Team Tylsäkaira] Björnis (C) [FIN]  775 g
+       4. [Team Tylsäkaira] HaukiTerppa [FIN]  763 g
+       5. [TOK] ED (C) [FIN]  735 g
+       6. [TOK] oke [FIN]  658 g
+       7. [TOK] Quu-Ukko [FIN]  599 g
+       8. [TOK] Kottage [FIN]  532 g
+       9. [Team Tylsäkaira] _jarppa_  455 g
+       10. [TOK] Anakonda (A) [FIN]  446 g
+       11. [Team Tylsäkaira] T2 [FIN]  380 g
+       12. [TOK] KalaKettu [FIN]  375 g
+       13. [Team Tylsäkaira] jani  373 g
+      *14. [Team Tylsäkaira] Matikka Koira  313 g
+       15. [Team Tylsäkaira] Sepe Vaari  292 g
+       16. [Team Tylsäkaira] RiittaM  181 g
+     Omat kalat:
+     Ahven   Lukumäärä: 11   Yhteispaino: 313   (Suurin: 68 g)
+     Allu.K:
+     Ahven   Lukumäärä: 28   Yhteispaino: 662   (Suurin: 210 g)
+     Hauki   Lukumäärä: 2   Yhteispaino: 615   (Suurin: 383 g)
+     Epi (A):
+     Ahven   Lukumäärä: 29   Yhteispaino: 864   (Suurin: 162 g)
+     Björnis (C):
+     Ahven   Lukumäärä: 33   Yhteispaino: 775   (Suurin: 216 g)
+     HaukiTerppa:
+     Ahven   Lukumäärä: 33   Yhteispaino: 763   (Suurin: 112 g)
+     ED (C):
+     Ahven   Lukumäärä: 46   Yhteispaino: 735   (Suurin: 27 g)
+     oke:
+     Ahven   Lukumäärä: 33   Yhteispaino: 658   (Suurin: 69 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 27   Yhteispaino: 599   (Suurin: 69 g)
+     Kottage:
+     Ahven   Lukumäärä: 38   Yhteispaino: 532   (Suurin: 63 g)
+     _jarppa_:
+     Ahven   Lukumäärä: 28   Yhteispaino: 455   (Suurin: 59 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 17   Yhteispaino: 446   (Suurin: 68 g)
+     T2:
+     Ahven   Lukumäärä: 14   Yhteispaino: 380   (Suurin: 119 g)
+     KalaKettu:
+     Ahven   Lukumäärä: 16   Yhteispaino: 375   (Suurin: 70 g)
+     jani:
+     Ahven   Lukumäärä: 18   Yhteispaino: 373   (Suurin: 55 g)
+     Sepe Vaari:
+     Ahven   Lukumäärä: 14   Yhteispaino: 292   (Suurin: 66 g)
+     RiittaM:
+     Ahven   Lukumäärä: 6   Yhteispaino: 181   (Suurin: 60 g)
+     Isoin kala:
+     Allu.K  Hauki  383 g
+
+<-- jani [Team Tylsäkaira] left the game. [29.11.2020 20:30]
+<-- T2 [Team Tylsäkaira] [FIN] left the game. [29.11.2020 20:30]
+--> Ipe [TOK] [FIN] joined the game (ip: 91.156.25.33). [29.11.2020 20:30] [/banaddress 91.156.25.33 60 Ipe_[TOK]_[FIN] 3768305088 eb2eac73165494240665111ed35189ce4f432170] [v1.6 Store]
+--> KuKa [Team Tylsäkaira] [FIN] joined the game (ip: 212.149.219.152). [29.11.2020 20:30] [/banaddress 212.149.219.152 60 KuKa_[Team_Tylsäkaira]_[FIN] 696846608 2c96a422414c86d2e831b21cfe9fb511258c7153] [v1.6 Store]
+--> Pauhu (A) [Team Tylsäkaira] [FIN] joined the game (ip: 83.245.225.39). [29.11.2020 20:30] [/banaddress 83.245.225.39 60 Pauhu_(A)_[Team_Tylsäkaira]_[FIN] 2580868352 144514f00801dae0c56fa767e2710e159aec802a] [v1.6 Store]
+--> Sohjokauha [Team Tylsäkaira] joined the game (ip: 84.230.170.49). [29.11.2020 20:30] [/banaddress 84.230.170.49 60 Sohjokauha_[Team_Tylsäkaira] 1601566176 26743be0576b2f1551ae7bd768d04acd46555b57] [v1.6 Store]
+--> Jokelan Pappa [Team Tylsäkaira] [FIN] joined the game (ip: 85.76.97.128). [29.11.2020 20:30] [/banaddress 85.76.97.128 60 Jokelan_Pappa_[Team_Tylsäkaira]_[FIN] 2126942958 ] [v1.6 Store]
+<-- Kottage [TOK] [FIN] left the game. [29.11.2020 20:30]
+<-- KalaKettu [TOK] [FIN] left the game. [29.11.2020 20:30]
+<-- Björnis (C) [Team Tylsäkaira] [FIN] left the game. [29.11.2020 20:31]
+<-- _jarppa_ [Team Tylsäkaira] left the game. [29.11.2020 20:31]
+--> MD [TOK] [FIN] joined the game (ip: 91.150.30.218). [29.11.2020 20:31] [/banaddress 91.150.30.218 60 MD_[TOK]_[FIN] 496619453 ] [v1.6 Store]
+New LAN SERVER competition started: Mäntylahti. (18.1. 9:20/ 30 min/ Medium / Carp family fish / Normal ice) [29.11.2020 20:35]
+--> T2 [Team Tylsäkaira] [FIN] joined the game (ip: 80.223.39.10). [29.11.2020 21:06] [/banaddress 80.223.39.10 60 T2_[Team_Tylsäkaira]_[FIN] 3128119242 baed1bf2dbc35f5f8ba200def89d7962c6712589] [v1.5]
+--> Sarina [Team Tylsäkaira] joined the game (ip: 85.76.119.172). [29.11.2020 21:06] [/banaddress 85.76.119.172 60 Sarina_[Team_Tylsäkaira] 817183079 cac5f0c2122e36e4fb4634171603aa813454f9a3] [v1.6 Store]
+--> Björnis (C) [Team Tylsäkaira] [FIN] joined the game (ip: 82.203.142.121). [29.11.2020 21:06] [/banaddress 82.203.142.121 60 Björnis_(C)_[Team_Tylsäkaira]_[FIN] 2418861159 07e6fbbfed6b6295313a91599b026aa94cba9edc] [v1.6 Store]
+Competition finished. Results:
+       1. [TOK] Quu-Ukko [FIN]  5566 g
+       2. [Team Tylsäkaira] Pauhu (A) [FIN]  3382 g
+       3. [Team Tylsäkaira] HaukiTerppa [FIN]  3256 g
+       4. [Team Tylsäkaira] Sepe Vaari  2944 g
+      *5. [Team Tylsäkaira] Matikka Koira  2931 g
+       6. [TOK] MD [FIN]  2903 g
+       7. [Team Tylsäkaira] RiittaM  2804 g
+       8. [Team Tylsäkaira] Sohjokauha  2580 g
+       9. [TOK] Epi (A) [FIN]  2407 g
+       10. [TOK] Allu.K [FIN]  2212 g
+       11. [TOK] ED (C) [FIN]  1932 g
+       12. [TOK] Anakonda (A) [FIN]  1834 g
+       13. [TOK] Ipe [FIN]  1641 g
+       14. [Team Tylsäkaira] KuKa [FIN]  1625 g
+       15. [TOK] oke [FIN]  1480 g
+       16. [Team Tylsäkaira] Jokelan Pappa [FIN]  495 g
+     Omat kalat:
+     Ahven   Lukumäärä: 7   Yhteispaino: 720   (Suurin: 192 g)
+     Kiiski   Lukumäärä: 11   Yhteispaino: 191   (Suurin: 33 g)
+     Lahna   Lukumäärä: 4   Yhteispaino: 1027   (Suurin: 339 g)
+     Pasuri   Lukumäärä: 1   Yhteispaino: 83   (Suurin: 83 g)
+     Sulkava   Lukumäärä: 5   Yhteispaino: 1057   (Suurin: 250 g)
+     Miek.särki   Lukumäärä: 6   Yhteispaino: 764   (Suurin: 163 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 1   Yhteispaino: 128   (Suurin: 128 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 41   (Suurin: 17 g)
+     Lahna   Lukumäärä: 11   Yhteispaino: 2389   (Suurin: 409 g)
+     Sulkava   Lukumäärä: 8   Yhteispaino: 1927   (Suurin: 275 g)
+     Miek.särki   Lukumäärä: 10   Yhteispaino: 1250   (Suurin: 238 g)
+     Pauhu (A):
+     Ahven   Lukumäärä: 2   Yhteispaino: 577   (Suurin: 321 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 57   (Suurin: 24 g)
+     Lahna   Lukumäärä: 7   Yhteispaino: 1560   (Suurin: 361 g)
+     Pasuri   Lukumäärä: 1   Yhteispaino: 39   (Suurin: 39 g)
+     Sulkava   Lukumäärä: 5   Yhteispaino: 1087   (Suurin: 267 g)
+     Miek.särki   Lukumäärä: 6   Yhteispaino: 696   (Suurin: 179 g)
+     HaukiTerppa:
+     Pasuri   Lukumäärä: 3   Yhteispaino: 252   (Suurin: 112 g)
+     Sulkava   Lukumäärä: 9   Yhteispaino: 1940   (Suurin: 304 g)
+     Miek.särki   Lukumäärä: 6   Yhteispaino: 1064   (Suurin: 261 g)
+     Sepe Vaari:
+     Ahven   Lukumäärä: 2   Yhteispaino: 138   (Suurin: 88 g)
+     Miek.särki   Lukumäärä: 21   Yhteispaino: 2944   (Suurin: 217 g)
+     MD:
+     Ahven   Lukumäärä: 2   Yhteispaino: 265   (Suurin: 207 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 20   (Suurin: 11 g)
+     Särki   Lukumäärä: 9   Yhteispaino: 1061   (Suurin: 178 g)
+     Lahna   Lukumäärä: 3   Yhteispaino: 328   (Suurin: 153 g)
+     Pasuri   Lukumäärä: 27   Yhteispaino: 1266   (Suurin: 83 g)
+     Sulkava   Lukumäärä: 2   Yhteispaino: 193   (Suurin: 115 g)
+     Miek.särki   Lukumäärä: 1   Yhteispaino: 55   (Suurin: 55 g)
+     RiittaM:
+     Kiiski   Lukumäärä: 5   Yhteispaino: 127   (Suurin: 29 g)
+     Lahna   Lukumäärä: 13   Yhteispaino: 2488   (Suurin: 319 g)
+     Sulkava   Lukumäärä: 1   Yhteispaino: 227   (Suurin: 227 g)
+     Miek.särki   Lukumäärä: 1   Yhteispaino: 89   (Suurin: 89 g)
+     Sohjokauha:
+     Kiiski   Lukumäärä: 6   Yhteispaino: 131   (Suurin: 28 g)
+     Pasuri   Lukumäärä: 4   Yhteispaino: 147   (Suurin: 46 g)
+     Sulkava   Lukumäärä: 4   Yhteispaino: 1026   (Suurin: 282 g)
+     Miek.särki   Lukumäärä: 9   Yhteispaino: 1407   (Suurin: 215 g)
+     Epi (A):
+     Kiiski   Lukumäärä: 5   Yhteispaino: 122   (Suurin: 29 g)
+     Pasuri   Lukumäärä: 13   Yhteispaino: 691   (Suurin: 84 g)
+     Sulkava   Lukumäärä: 7   Yhteispaino: 1716   (Suurin: 311 g)
+     Allu.K:
+     Ahven   Lukumäärä: 11   Yhteispaino: 1180   (Suurin: 251 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 90   (Suurin: 31 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 165   (Suurin: 165 g)
+     Pasuri   Lukumäärä: 9   Yhteispaino: 318   (Suurin: 56 g)
+     Sulkava   Lukumäärä: 14   Yhteispaino: 1729   (Suurin: 255 g)
+     ED (C):
+     Kiiski   Lukumäärä: 2   Yhteispaino: 47   (Suurin: 29 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 484   (Suurin: 484 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 18   (Suurin: 18 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 145   (Suurin: 145 g)
+     Pasuri   Lukumäärä: 3   Yhteispaino: 138   (Suurin: 73 g)
+     Sulkava   Lukumäärä: 2   Yhteispaino: 446   (Suurin: 270 g)
+     Miek.särki   Lukumäärä: 9   Yhteispaino: 1185   (Suurin: 192 g)
+     Anakonda (A):
+     Kiiski   Lukumäärä: 1   Yhteispaino: 19   (Suurin: 19 g)
+     Pasuri   Lukumäärä: 4   Yhteispaino: 181   (Suurin: 56 g)
+     Miek.särki   Lukumäärä: 14   Yhteispaino: 1653   (Suurin: 189 g)
+     Ipe:
+     Ahven   Lukumäärä: 7   Yhteispaino: 732   (Suurin: 214 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 25   (Suurin: 25 g)
+     Särki   Lukumäärä: 12   Yhteispaino: 891   (Suurin: 153 g)
+     Lahna   Lukumäärä: 4   Yhteispaino: 498   (Suurin: 128 g)
+     Sulkava   Lukumäärä: 2   Yhteispaino: 252   (Suurin: 161 g)
+     KuKa:
+     Ahven   Lukumäärä: 9   Yhteispaino: 583   (Suurin: 111 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 150   (Suurin: 30 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 78   (Suurin: 45 g)
+     Lahna   Lukumäärä: 6   Yhteispaino: 1547   (Suurin: 642 g)
+     oke:
+     Ahven   Lukumäärä: 9   Yhteispaino: 928   (Suurin: 236 g)
+     Kiiski   Lukumäärä: 11   Yhteispaino: 182   (Suurin: 25 g)
+     Särki   Lukumäärä: 15   Yhteispaino: 1112   (Suurin: 144 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 120   (Suurin: 120 g)
+     Sulkava   Lukumäärä: 1   Yhteispaino: 248   (Suurin: 248 g)
+     Jokelan Pappa:
+     Pasuri   Lukumäärä: 7   Yhteispaino: 313   (Suurin: 97 g)
+     Miek.särki   Lukumäärä: 1   Yhteispaino: 182   (Suurin: 182 g)
+     Isoin kala:
+     KuKa  Lahna  642 g
+
+<-- MD [TOK] [FIN] left the game. [29.11.2020 21:06]
+<-- Pauhu (A) [Team Tylsäkaira] [FIN] left the game. [29.11.2020 21:07]
+<-- Sepe Vaari [Team Tylsäkaira] left the game. [29.11.2020 21:07]
+<-- RiittaM [Team Tylsäkaira] left the game. [29.11.2020 21:07]
+--> _jarppa_ [Team Tylsäkaira] joined the game (ip: 85.76.112.160). [29.11.2020 21:07] [/banaddress 85.76.112.160 60 _jarppa__[Team_Tylsäkaira] 1484981860 e8edec74e47822ef491be4a66375497ee691c498] [v1.6]
+--> LassiNou [TOK] [FIN] joined the game (ip: 188.238.28.128). [29.11.2020 21:09] [/banaddress 188.238.28.128 60 LassiNou_[TOK]_[FIN] 3354784686 9502664b31e83930e97c0451f10420e3b6fbdb85] [v1.6 Store]
+New LAN SERVER competition started: Korpipuro. (8.3. 9:20/ 30 min/ Medium / Normal / Normal ice) [29.11.2020 21:11]
+Competition finished. Results:
+       1. [Team Tylsäkaira] KuKa [FIN]  1928 g
+       2. [TOK] oke [FIN]  1614 g
+       3. [TOK] Quu-Ukko [FIN]  1579 g
+       4. [Team Tylsäkaira] T2 [FIN]  1206 g
+       5. [Team Tylsäkaira] Sohjokauha  1173 g
+       6. [TOK] Anakonda (A) [FIN]  1171 g
+       7. [TOK] Epi (A) [FIN]  1121 g
+       8. [Team Tylsäkaira] Björnis (C) [FIN]  1075 g
+       9. [TOK] ED (C) [FIN]  1068 g
+       10. [TOK] LassiNou [FIN]  1063 g
+       11. [TOK] Allu.K [FIN]  1050 g
+       12. [Team Tylsäkaira] Sarina  914 g
+       13. [Team Tylsäkaira] HaukiTerppa [FIN]  642 g
+       14. [TOK] Ipe [FIN]  331 g
+       15. [Team Tylsäkaira] Jokelan Pappa [FIN]  260 g
+       16. [Team Tylsäkaira] _jarppa_  29 g
+      *17. [Team Tylsäkaira] Matikka Koira  0 g
+     Omat kalat:
+     KuKa:
+     Ahven   Lukumäärä: 6   Yhteispaino: 100   (Suurin: 21 g)
+     P.nieriä   Lukumäärä: 6   Yhteispaino: 1753   (Suurin: 442 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 75   (Suurin: 30 g)
+     oke:
+     Ahven   Lukumäärä: 4   Yhteispaino: 65   (Suurin: 21 g)
+     P.nieriä   Lukumäärä: 6   Yhteispaino: 1549   (Suurin: 332 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 6   Yhteispaino: 114   (Suurin: 27 g)
+     P.nieriä   Lukumäärä: 5   Yhteispaino: 1446   (Suurin: 359 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 19   (Suurin: 19 g)
+     T2:
+     Ahven   Lukumäärä: 3   Yhteispaino: 46   (Suurin: 18 g)
+     P.nieriä   Lukumäärä: 4   Yhteispaino: 1160   (Suurin: 342 g)
+     Sohjokauha:
+     Ahven   Lukumäärä: 1   Yhteispaino: 13   (Suurin: 13 g)
+     P.nieriä   Lukumäärä: 5   Yhteispaino: 1160   (Suurin: 277 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 3   Yhteispaino: 49   (Suurin: 19 g)
+     P.nieriä   Lukumäärä: 4   Yhteispaino: 1122   (Suurin: 322 g)
+     Epi (A):
+     Ahven   Lukumäärä: 1   Yhteispaino: 27   (Suurin: 27 g)
+     P.nieriä   Lukumäärä: 4   Yhteispaino: 1094   (Suurin: 316 g)
+     Björnis (C):
+     Ahven   Lukumäärä: 2   Yhteispaino: 23   (Suurin: 13 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 446   (Suurin: 446 g)
+     P.nieriä   Lukumäärä: 2   Yhteispaino: 606   (Suurin: 305 g)
+     ED (C):
+     Ahven   Lukumäärä: 2   Yhteispaino: 30   (Suurin: 18 g)
+     P.nieriä   Lukumäärä: 4   Yhteispaino: 1038   (Suurin: 294 g)
+     LassiNou:
+     P.nieriä   Lukumäärä: 4   Yhteispaino: 1063   (Suurin: 300 g)
+     Allu.K:
+     Ahven   Lukumäärä: 1   Yhteispaino: 19   (Suurin: 19 g)
+     P.nieriä   Lukumäärä: 4   Yhteispaino: 1031   (Suurin: 273 g)
+     Sarina:
+     Ahven   Lukumäärä: 4   Yhteispaino: 62   (Suurin: 18 g)
+     P.nieriä   Lukumäärä: 3   Yhteispaino: 852   (Suurin: 303 g)
+     HaukiTerppa:
+     Ahven   Lukumäärä: 5   Yhteispaino: 80   (Suurin: 19 g)
+     P.nieriä   Lukumäärä: 2   Yhteispaino: 562   (Suurin: 296 g)
+     Ipe:
+     Ahven   Lukumäärä: 3   Yhteispaino: 49   (Suurin: 18 g)
+     P.nieriä   Lukumäärä: 1   Yhteispaino: 282   (Suurin: 282 g)
+     Jokelan Pappa:
+     P.nieriä   Lukumäärä: 1   Yhteispaino: 260   (Suurin: 260 g)
+     _jarppa_:
+     Ahven   Lukumäärä: 2   Yhteispaino: 29   (Suurin: 15 g)
+     Isoin kala:
+     Björnis (C)  Hauki  446 g

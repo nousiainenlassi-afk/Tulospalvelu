@@ -1,0 +1,256 @@
+New LAN SERVER competition started: Iso-Ruuhijärvi. (8.11. 9:20/ 30 min/ Medium / Five biggest fish / Slippery ice) [28.11.2021 20:00]
+<-- Urheilukalastaja [MV] [FIN] left the game. [28.11.2021 20:02]
+--> Urheilukalastaja [MV] [FIN] joined the game (ip: 85.76.35.1). [28.11.2021 20:03] [/banaddress 85.76.35.1 60 Urheilukalastaja_[MV]_[FIN] 2416250051 e2e0a74730e182f6c552d5b52edaed9bb7286ebe] [v1.7.1]
+Competition finished. Results:
+1. [PIPO] Perza [FIN] 5387 g
+2. [MV] Atomi [FIN] 4502 g
+3. [PIPO] Sushisusi 4377 g
+4. [PIPO] Arska.- 4045 g
+5. [MV] Madekikk [FIN] 3554 g
+6. [PIPO] Anr 3370 g
+7. [PIPO] Valas [FIN] 3309 g
+8. [MV] Marko (C) [FIN] 2843 g
+9. [MV] AtomiX (C) [FIN] 2558 g
+10. [MV] Urheilukalastaja [FIN] 2300 g
+11. [PIPO] PuliSher [FIN] 2069 g
+12. [MV] Gandalf Harmaanieriä [FIN] 1142 g
+13. [MV] Hauentappaja [FIN] 1037 g
+14. [MV] JANI862 [FIN] 979 g
+15. [PIPO] Nevi (A) 577 g
+16. [PIPO] Morripoika (C) [FIN] 0 g (disq)
+*17. -MiX ServeR- [FIN] 0 g
+Omat kalat:
+Perza:
+Ahven Lukumäärä: 14 Yhteispaino: 1395 (Suurin: 170 g)
+Kirjolohi Lukumäärä: 4 Yhteispaino: 5101 (Suurin: 1554 g)
+Siika Lukumäärä: 4 Yhteispaino: 768 (Suurin: 286 g)
+Atomi:
+Kiiski Lukumäärä: 2 Yhteispaino: 59 (Suurin: 33 g)
+Kirjolohi Lukumäärä: 3 Yhteispaino: 3984 (Suurin: 2189 g)
+Siika Lukumäärä: 3 Yhteispaino: 635 (Suurin: 397 g)
+Sushisusi:
+Ahven Lukumäärä: 4 Yhteispaino: 649 (Suurin: 262 g)
+Kirjolohi Lukumäärä: 2 Yhteispaino: 3075 (Suurin: 1685 g)
+Taimen Lukumäärä: 1 Yhteispaino: 820 (Suurin: 820 g)
+Siika Lukumäärä: 3 Yhteispaino: 583 (Suurin: 220 g)
+Arska.-:
+Kiiski Lukumäärä: 6 Yhteispaino: 205 (Suurin: 50 g)
+Kirjolohi Lukumäärä: 2 Yhteispaino: 2785 (Suurin: 1611 g)
+Taimen Lukumäärä: 1 Yhteispaino: 699 (Suurin: 699 g)
+Siika Lukumäärä: 7 Yhteispaino: 1108 (Suurin: 442 g)
+Madekikk:
+Ahven Lukumäärä: 1 Yhteispaino: 48 (Suurin: 48 g)
+Kiiski Lukumäärä: 3 Yhteispaino: 109 (Suurin: 47 g)
+Kirjolohi Lukumäärä: 3 Yhteispaino: 3459 (Suurin: 1322 g)
+Särki Lukumäärä: 2 Yhteispaino: 87 (Suurin: 45 g)
+Anr:
+Ahven Lukumäärä: 3 Yhteispaino: 457 (Suurin: 185 g)
+Kiiski Lukumäärä: 2 Yhteispaino: 61 (Suurin: 35 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 1709 (Suurin: 1709 g)
+Siika Lukumäärä: 10 Yhteispaino: 2519 (Suurin: 458 g)
+Valas:
+Ahven Lukumäärä: 3 Yhteispaino: 281 (Suurin: 111 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 1767 (Suurin: 1767 g)
+Taimen Lukumäärä: 1 Yhteispaino: 854 (Suurin: 854 g)
+Siika Lukumäärä: 4 Yhteispaino: 796 (Suurin: 371 g)
+Marko (C):
+Ahven Lukumäärä: 9 Yhteispaino: 1295 (Suurin: 340 g)
+Kiiski Lukumäärä: 1 Yhteispaino: 41 (Suurin: 41 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 1278 (Suurin: 1278 g)
+Siika Lukumäärä: 6 Yhteispaino: 1682 (Suurin: 434 g)
+AtomiX (C):
+Ahven Lukumäärä: 4 Yhteispaino: 379 (Suurin: 240 g)
+Kiiski Lukumäärä: 1 Yhteispaino: 39 (Suurin: 39 g)
+Kirjolohi Lukumäärä: 2 Yhteispaino: 2215 (Suurin: 1141 g)
+Urheilukalastaja:
+Ahven Lukumäärä: 2 Yhteispaino: 182 (Suurin: 132 g)
+Kirjolohi Lukumäärä: 2 Yhteispaino: 2009 (Suurin: 1553 g)
+Siika Lukumäärä: 1 Yhteispaino: 109 (Suurin: 109 g)
+PuliSher:
+Ahven Lukumäärä: 13 Yhteispaino: 1016 (Suurin: 252 g)
+Kiiski Lukumäärä: 2 Yhteispaino: 65 (Suurin: 33 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 923 (Suurin: 923 g)
+Siika Lukumäärä: 4 Yhteispaino: 981 (Suurin: 395 g)
+Särki Lukumäärä: 2 Yhteispaino: 127 (Suurin: 64 g)
+Gandalf Harmaanieriä:
+Ahven Lukumäärä: 6 Yhteispaino: 1279 (Suurin: 260 g)
+Siika Lukumäärä: 4 Yhteispaino: 591 (Suurin: 177 g)
+Särki Lukumäärä: 3 Yhteispaino: 109 (Suurin: 63 g)
+Hauentappaja:
+Ahven Lukumäärä: 5 Yhteispaino: 695 (Suurin: 194 g)
+Kiiski Lukumäärä: 1 Yhteispaino: 28 (Suurin: 28 g)
+Hauki Lukumäärä: 1 Yhteispaino: 279 (Suurin: 279 g)
+Siika Lukumäärä: 2 Yhteispaino: 362 (Suurin: 254 g)
+JANI862:
+Ahven Lukumäärä: 16 Yhteispaino: 1235 (Suurin: 155 g)
+Kiiski Lukumäärä: 6 Yhteispaino: 232 (Suurin: 43 g)
+Hauki Lukumäärä: 1 Yhteispaino: 395 (Suurin: 395 g)
+Nevi (A):
+Kiiski Lukumäärä: 6 Yhteispaino: 181 (Suurin: 36 g)
+Siika Lukumäärä: 8 Yhteispaino: 859 (Suurin: 137 g)
+Isoin kala:
+Atomi Kirjolohi 2189 g
+
+<-- Anr [PIPO] left the game. [28.11.2021 20:32]
+<-- Urheilukalastaja [MV] [FIN] left the game. [28.11.2021 20:32]
+<-- JANI862 [MV] [FIN] left the game. [28.11.2021 20:32]
+--> SatumiX [MV] [FIN] joined the game (ip: 192.168.10.165). [28.11.2021 20:32] [/banaddress 192.168.10.165 60 SatumiX_[MV]_[FIN] 1137646181 d42d016913d3fe5d593bb204b2effaaa872904c4] [v1.7 Store]
+--> Kwaler [MV] [FIN] joined the game (ip: 85.194.207.67). [28.11.2021 20:32] [/banaddress 85.194.207.67 60 Kwaler_[MV]_[FIN] 2475688435 4b0e5f8dc9a15eed22bea3b9643fcb8d8dd6686e] [v1.7 Store]
+<-- Arska.- [PIPO] left the game. [28.11.2021 20:32]
+--> Tintti [PIPO] joined the game (ip: 178.55.115.242). [28.11.2021 20:33] [/banaddress 178.55.115.242 60 Tintti_[PIPO] 1195720028 67e4b2d28cf03084ffe8ab00dd9614728600966c] [v1.7 Store]
+--> Eläkeläinen [PIPO] [FIN] joined the game (ip: 80.246.152.194). [28.11.2021 20:34] [/banaddress 80.246.152.194 60 Eläkeläinen_[PIPO]_[FIN] 2858862687 24ee211c5d3a6a46a06fd90cf6523301534fb82d] [v1.7 Store]
+New LAN SERVER competition started: Mustalampi. (10.1. 14:20/ 30 min/ Medium / Normal / Normal ice) [28.11.2021 20:36]
+Competition finished. Results:
+1. [PIPO] Morripoika (C) [FIN] 1485 g
+2. [PIPO] Nevi (A) 1136 g
+3. [MV] Hauentappaja [FIN] 914 g
+4. [MV] Atomi [FIN] 887 g
+5. [PIPO] Valas [FIN] 773 g
+6. [MV] Gandalf Harmaanieriä [FIN] 685 g
+7. [MV] SatumiX [FIN] 676 g
+8. [PIPO] Tintti 419 g
+9. [MV] Marko (C) [FIN] 405 g
+10. [PIPO] Perza [FIN] 342 g
+11. [MV] AtomiX (C) [FIN] 329 g
+12. [PIPO] Eläkeläinen [FIN] 276 g
+13. [PIPO] PuliSher [FIN] 244 g
+14. [MV] Madekikk [FIN] 214 g
+15. [PIPO] Sushisusi 201 g
+16. [MV] Kwaler [FIN] 190 g
+*17. -MiX ServeR- [FIN] 0 g
+Omat kalat:
+Morripoika (C):
+Ahven Lukumäärä: 25 Yhteispaino: 1031 (Suurin: 80 g)
+Hauki Lukumäärä: 1 Yhteispaino: 454 (Suurin: 454 g)
+Nevi (A):
+Ahven Lukumäärä: 14 Yhteispaino: 602 (Suurin: 79 g)
+Säyne Lukumäärä: 1 Yhteispaino: 534 (Suurin: 534 g)
+Hauentappaja:
+Ahven Lukumäärä: 14 Yhteispaino: 365 (Suurin: 51 g)
+Hauki Lukumäärä: 1 Yhteispaino: 549 (Suurin: 549 g)
+Atomi:
+Ahven Lukumäärä: 14 Yhteispaino: 492 (Suurin: 74 g)
+Särki Lukumäärä: 6 Yhteispaino: 395 (Suurin: 80 g)
+Valas:
+Ahven Lukumäärä: 18 Yhteispaino: 718 (Suurin: 67 g)
+Särki Lukumäärä: 1 Yhteispaino: 55 (Suurin: 55 g)
+Gandalf Harmaanieriä:
+Ahven Lukumäärä: 21 Yhteispaino: 685 (Suurin: 56 g)
+SatumiX:
+Ahven Lukumäärä: 16 Yhteispaino: 676 (Suurin: 80 g)
+Tintti:
+Ahven Lukumäärä: 10 Yhteispaino: 419 (Suurin: 81 g)
+Marko (C):
+Ahven Lukumäärä: 10 Yhteispaino: 405 (Suurin: 80 g)
+Perza:
+Ahven Lukumäärä: 5 Yhteispaino: 342 (Suurin: 86 g)
+AtomiX (C):
+Ahven Lukumäärä: 7 Yhteispaino: 329 (Suurin: 90 g)
+Eläkeläinen:
+Ahven Lukumäärä: 2 Yhteispaino: 96 (Suurin: 50 g)
+Särki Lukumäärä: 2 Yhteispaino: 180 (Suurin: 98 g)
+PuliSher:
+Ahven Lukumäärä: 1 Yhteispaino: 42 (Suurin: 42 g)
+Särki Lukumäärä: 3 Yhteispaino: 202 (Suurin: 79 g)
+Madekikk:
+Ahven Lukumäärä: 2 Yhteispaino: 127 (Suurin: 93 g)
+Särki Lukumäärä: 1 Yhteispaino: 87 (Suurin: 87 g)
+Sushisusi:
+Ahven Lukumäärä: 4 Yhteispaino: 201 (Suurin: 61 g)
+Kwaler:
+Ahven Lukumäärä: 5 Yhteispaino: 190 (Suurin: 55 g)
+Isoin kala:
+Hauentappaja Hauki 549 g
+
+--> joonapro [PIPO] [FIN] joined the game (ip: 89.166.24.220). [28.11.2021 21:07] [/banaddress 89.166.24.220 60 joonapro_[PIPO]_[FIN] 1482944531 4f1552631c0a759038a85f06584be128eeaf18a3] [v1.7.1]
+<-- PuliSher [PIPO] [FIN] left the game. [28.11.2021 21:07]
+--> Arska.- [PIPO] joined the game (ip: 91.153.227.130). [28.11.2021 21:07] [/banaddress 91.153.227.130 60 Arska.-_[PIPO] 275251469 ] [v1.7.1]
+<-- Valas [PIPO] [FIN] left the game. [28.11.2021 21:07]
+--> Anr [Alea Iacta Est] joined the game (ip: 89.166.5.116). [28.11.2021 21:07] [/banaddress 89.166.5.116 60 Anr_[Alea_Iacta_Est] 35645776 5b5f1d79f84a7374ba4be5da75ecf0a3511274ca] [v1.7 Store]
+<-- Anr [Alea Iacta Est] left the game. [28.11.2021 21:07]
+--> Anr [PIPO] joined the game (ip: 89.166.5.116). [28.11.2021 21:08] [/banaddress 89.166.5.116 60 Anr_[PIPO] 35645776 5b5f1d79f84a7374ba4be5da75ecf0a3511274ca] [v1.7 Store]
+<-- Morripoika (C) [PIPO] [FIN] left the game. [28.11.2021 21:08]
+--> JANI862 [MV] [FIN] joined the game (ip: 85.76.48.175). [28.11.2021 21:09] [/banaddress 85.76.48.175 60 JANI862_[MV]_[FIN] 1050397991 34cb4611f2366a8e09396f54dae302ff9159c23f] [v1.7 Android]
+<-- SatumiX [MV] [FIN] left the game. [28.11.2021 21:09]
+<-- Gandalf Harmaanieriä [MV] [FIN] left the game. [28.11.2021 21:09]
+--> Urheilukalastaja [MV] [FIN] joined the game (ip: 85.76.35.1). [28.11.2021 21:09] [/banaddress 85.76.35.1 60 Urheilukalastaja_[MV]_[FIN] 2416250051 e2e0a74730e182f6c552d5b52edaed9bb7286ebe] [v1.7.1]
+--> Gandalf Harmaanieriä [MV] [FIN] joined the game (ip: 37.33.196.10). [28.11.2021 21:09] [/banaddress 37.33.196.10 60 Gandalf_Harmaanieriä_[MV]_[FIN] 3435930470 f23584e16ec42bbe2e4a282ffbdd5f3ba4759529] [v1.7 Store]
+<-- Kwaler [MV] [FIN] left the game. [28.11.2021 21:10]
+New LAN SERVER competition started: Hossalaislammet. (11.1. 9:20/ 30 min/ Medium / All species / Normal ice) [28.11.2021 21:12]
+Competition finished. Results:
+1. [PIPO] Tintti 5091 g
+2. [PIPO] Arska.- 4811 g
+3. [MV] Gandalf Harmaanieriä [FIN] 4501 g
+4. [MV] Marko (C) [FIN] 3106 g
+5. [MV] AtomiX (C) [FIN] 2956 g
+6. [PIPO] Sushisusi 2945 g
+7. [PIPO] Eläkeläinen [FIN] 2583 g
+8. [MV] Urheilukalastaja [FIN] 2579 g
+9. [MV] Hauentappaja [FIN] 2390 g
+10. [PIPO] Nevi (A) 1688 g
+11. [MV] JANI862 [FIN] 1659 g
+12. [PIPO] joonapro [FIN] 1452 g
+13. [MV] Atomi [FIN] 1205 g
+14. [PIPO] Perza [FIN] 1182 g
+15. [MV] Madekikk [FIN] 833 g
+16. [PIPO] Anr 0 g (disq)
+*17. -MiX ServeR- [FIN] 0 g
+Omat kalat:
+Tintti:
+Ahven Lukumäärä: 4 Yhteispaino: 482 (Suurin: 235 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 2573 (Suurin: 2573 g)
+Siika Lukumäärä: 5 Yhteispaino: 2036 (Suurin: 448 g)
+Arska.-:
+Ahven Lukumäärä: 1 Yhteispaino: 248 (Suurin: 248 g)
+Kiiski Lukumäärä: 1 Yhteispaino: 12 (Suurin: 12 g)
+Kirjolohi Lukumäärä: 3 Yhteispaino: 3792 (Suurin: 1935 g)
+Siika Lukumäärä: 2 Yhteispaino: 759 (Suurin: 401 g)
+Gandalf Harmaanieriä:
+Ahven Lukumäärä: 2 Yhteispaino: 72 (Suurin: 44 g)
+Kirjolohi Lukumäärä: 5 Yhteispaino: 4429 (Suurin: 1082 g)
+Marko (C):
+Ahven Lukumäärä: 2 Yhteispaino: 440 (Suurin: 259 g)
+Kiiski Lukumäärä: 2 Yhteispaino: 39 (Suurin: 21 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 2627 (Suurin: 2627 g)
+AtomiX (C):
+Ahven Lukumäärä: 2 Yhteispaino: 82 (Suurin: 52 g)
+Kirjolohi Lukumäärä: 3 Yhteispaino: 2874 (Suurin: 1141 g)
+Sushisusi:
+Kiiski Lukumäärä: 1 Yhteispaino: 8 (Suurin: 8 g)
+Siika Lukumäärä: 7 Yhteispaino: 2937 (Suurin: 508 g)
+Eläkeläinen:
+Kirjolohi Lukumäärä: 1 Yhteispaino: 2078 (Suurin: 2078 g)
+Siika Lukumäärä: 1 Yhteispaino: 505 (Suurin: 505 g)
+Urheilukalastaja:
+Kiiski Lukumäärä: 1 Yhteispaino: 15 (Suurin: 15 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 2564 (Suurin: 2564 g)
+Hauentappaja:
+Ahven Lukumäärä: 8 Yhteispaino: 290 (Suurin: 41 g)
+Kiiski Lukumäärä: 1 Yhteispaino: 18 (Suurin: 18 g)
+Kirjolohi Lukumäärä: 2 Yhteispaino: 1871 (Suurin: 962 g)
+Särki Lukumäärä: 7 Yhteispaino: 211 (Suurin: 43 g)
+Nevi (A):
+Ahven Lukumäärä: 2 Yhteispaino: 85 (Suurin: 51 g)
+Kiiski Lukumäärä: 1 Yhteispaino: 10 (Suurin: 10 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 1136 (Suurin: 1136 g)
+Siika Lukumäärä: 2 Yhteispaino: 457 (Suurin: 243 g)
+JANI862:
+Ahven Lukumäärä: 5 Yhteispaino: 276 (Suurin: 102 g)
+Siika Lukumäärä: 3 Yhteispaino: 1383 (Suurin: 545 g)
+joonapro:
+Ahven Lukumäärä: 7 Yhteispaino: 273 (Suurin: 83 g)
+Kiiski Lukumäärä: 1 Yhteispaino: 15 (Suurin: 15 g)
+Kirjolohi Lukumäärä: 1 Yhteispaino: 807 (Suurin: 807 g)
+Siika Lukumäärä: 1 Yhteispaino: 357 (Suurin: 357 g)
+Atomi:
+Ahven Lukumäärä: 7 Yhteispaino: 328 (Suurin: 99 g)
+Siika Lukumäärä: 2 Yhteispaino: 877 (Suurin: 456 g)
+Perza:
+Ahven Lukumäärä: 5 Yhteispaino: 317 (Suurin: 106 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 61 (Suurin: 21 g)
+Siika Lukumäärä: 2 Yhteispaino: 804 (Suurin: 440 g)
+Madekikk:
+Kiiski Lukumäärä: 1 Yhteispaino: 13 (Suurin: 13 g)
+Siika Lukumäärä: 2 Yhteispaino: 820 (Suurin: 429 g)
+Isoin kala:
+Marko (C) Kirjolohi 2627 g

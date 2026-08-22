@@ -1,0 +1,385 @@
+TOK (105) 4 - 2 (63) SK
+40-16, 39-17, 26-30
+
+New LAN CLIENT competition started: Haukilahti. (12.3. 9:20/ 30 min/ Medium / All species / Normal ice) [08.11.2020 20:00]
+Competition finished. Results:
+       1. [TOK] Anakonda (A) [FIN]  4898 g
+       2. [TOK] $T$ [FIN]  4266 g
+      *3. [TOK] ED (C) [FIN]  3859 g
+       4. [TOK] Allu.K [FIN]  3630 g
+       5. [SK] Sanna=) (A) [FIN]  3210 g
+       6. [SK] Kala-ukko (C) [FIN]  2659 g
+       7. [TOK] Kottage [FIN]  2580 g
+       8. [SK] Juku6.1 (A) [FIN]  2510 g
+       9. [SK] TUKE NUKEM [FIN]  2412 g
+       10. [TOK] Quu-Ukko [FIN]  2177 g
+       11. [SK] -heikki- (C) [FI]  1763 g
+       12. [SK] kala-akka [FIN]  1528 g
+       13. [SK] Kokitar [FI]  1357 g
+       14. [TOK] Epi (A) [FIN]  1317 g
+       15. [TOK] oke [FIN]  1211 g
+       16. [SK] Pirkko [FIN]  1209 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Ahven   Lukumäärä: 47   Yhteispaino: 3097   (Suurin: 325 g)
+     Kiiski   Lukumäärä: 15   Yhteispaino: 412   (Suurin: 78 g)
+     Särki   Lukumäärä: 8   Yhteispaino: 350   (Suurin: 60 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 37   Yhteispaino: 1451   (Suurin: 77 g)
+     Kiiski   Lukumäärä: 14   Yhteispaino: 384   (Suurin: 61 g)
+     Hauki   Lukumäärä: 3   Yhteispaino: 2468   (Suurin: 1310 g)
+     Siika   Lukumäärä: 2   Yhteispaino: 472   (Suurin: 291 g)
+     Seipi   Lukumäärä: 4   Yhteispaino: 123   (Suurin: 32 g)
+     $T$:
+     Ahven   Lukumäärä: 14   Yhteispaino: 1950   (Suurin: 203 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 66   (Suurin: 25 g)
+     Hauki   Lukumäärä: 3   Yhteispaino: 1851   (Suurin: 754 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 399   (Suurin: 399 g)
+     Allu.K:
+     Ahven   Lukumäärä: 22   Yhteispaino: 1200   (Suurin: 181 g)
+     Kiiski   Lukumäärä: 21   Yhteispaino: 361   (Suurin: 41 g)
+     Hauki   Lukumäärä: 2   Yhteispaino: 1342   (Suurin: 790 g)
+     Särki   Lukumäärä: 11   Yhteispaino: 521   (Suurin: 67 g)
+     Seipi   Lukumäärä: 7   Yhteispaino: 206   (Suurin: 41 g)
+     Sanna=) (A):
+     Ahven   Lukumäärä: 32   Yhteispaino: 1343   (Suurin: 200 g)
+     Kiiski   Lukumäärä: 26   Yhteispaino: 422   (Suurin: 38 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 697   (Suurin: 697 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 615   (Suurin: 287 g)
+     Seipi   Lukumäärä: 5   Yhteispaino: 133   (Suurin: 36 g)
+     Kala-ukko (C):
+     Ahven   Lukumäärä: 16   Yhteispaino: 1621   (Suurin: 284 g)
+     Kiiski   Lukumäärä: 10   Yhteispaino: 355   (Suurin: 67 g)
+     Särki   Lukumäärä: 11   Yhteispaino: 528   (Suurin: 61 g)
+     Seipi   Lukumäärä: 5   Yhteispaino: 155   (Suurin: 39 g)
+     Kottage:
+     Ahven   Lukumäärä: 15   Yhteispaino: 1346   (Suurin: 287 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 50   (Suurin: 18 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 862   (Suurin: 862 g)
+     Särki   Lukumäärä: 6   Yhteispaino: 285   (Suurin: 69 g)
+     Salakka   Lukumäärä: 2   Yhteispaino: 37   (Suurin: 19 g)
+     Juku6.1 (A):
+     Ahven   Lukumäärä: 18   Yhteispaino: 1533   (Suurin: 258 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 149   (Suurin: 47 g)
+     Särki   Lukumäärä: 18   Yhteispaino: 809   (Suurin: 59 g)
+     Salakka   Lukumäärä: 1   Yhteispaino: 19   (Suurin: 19 g)
+     TUKE NUKEM:
+     Ahven   Lukumäärä: 6   Yhteispaino: 615   (Suurin: 201 g)
+     Hauki   Lukumäärä: 2   Yhteispaino: 1194   (Suurin: 631 g)
+     Särki   Lukumäärä: 12   Yhteispaino: 567   (Suurin: 63 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 36   (Suurin: 36 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 15   Yhteispaino: 1185   (Suurin: 183 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 176   (Suurin: 50 g)
+     Särki   Lukumäärä: 17   Yhteispaino: 816   (Suurin: 61 g)
+     -heikki- (C):
+     Ahven   Lukumäärä: 17   Yhteispaino: 1141   (Suurin: 127 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 622   (Suurin: 286 g)
+     kala-akka:
+     Ahven   Lukumäärä: 10   Yhteispaino: 935   (Suurin: 154 g)
+     Särki   Lukumäärä: 13   Yhteispaino: 593   (Suurin: 60 g)
+     Kokitar:
+     Ahven   Lukumäärä: 15   Yhteispaino: 1108   (Suurin: 331 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 38   (Suurin: 16 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 211   (Suurin: 57 g)
+     Epi (A):
+     Ahven   Lukumäärä: 18   Yhteispaino: 603   (Suurin: 249 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 29   (Suurin: 29 g)
+     Särki   Lukumäärä: 14   Yhteispaino: 662   (Suurin: 57 g)
+     Salakka   Lukumäärä: 1   Yhteispaino: 23   (Suurin: 23 g)
+     oke:
+     Ahven   Lukumäärä: 14   Yhteispaino: 652   (Suurin: 78 g)
+     Särki   Lukumäärä: 9   Yhteispaino: 396   (Suurin: 65 g)
+     Seipi   Lukumäärä: 5   Yhteispaino: 163   (Suurin: 39 g)
+     Pirkko:
+     Ahven   Lukumäärä: 3   Yhteispaino: 153   (Suurin: 59 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 26   (Suurin: 26 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 711   (Suurin: 711 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 319   (Suurin: 56 g)
+     Quu-Ukko Host:
+     Isoin kala:
+     Anakonda (A)  Hauki  1310 g
+
+New LAN CLIENT competition started: Haapolahti. (12.3. 9:20/ 30 min/ Medium / Most species / Normal ice) [08.11.2020 20:36]
+Competition finished. Results:
+       1. [SK] -heikki- (C) [FI]  10 g
+       2. [TOK] JUGI [FIN]  10 g
+       3. [TOK] Quu-Ukko [FIN]  9 g
+      *4. [TOK] ED (C) [FIN]  9 g
+       5. [TOK] Kottage [FIN]  9 g
+       6. [SK] Sanna=) (A) [FIN]  8 g
+       7. [TOK] Epi (A) [FIN]  8 g
+       8. [TOK] KalaKettu [FIN]  8 g
+       9. [TOK] Allu.K [FIN]  8 g
+       10. [SK] kala-akka [FIN]  8 g
+       11. [SK] Pirkko [FIN]  8 g
+       12. [SK] Kala-ukko (C) [FIN]  8 g
+       13. [SK] Juku6.1 (A) [FIN]  8 g
+       14. [SK] Kokitar [FI]  8 g
+       15. [TOK] Anakonda (A) [FIN]  7 g
+       16. [SK] jäppinen [FIN]  5 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Ahven   Lukumäärä: 10   Yhteispaino: 735   (Suurin: 250 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 42   (Suurin: 23 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 395   (Suurin: 395 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 116   (Suurin: 44 g)
+     Seipi   Lukumäärä: 3   Yhteispaino: 84   (Suurin: 30 g)
+     Lahna   Lukumäärä: 2   Yhteispaino: 176   (Suurin: 93 g)
+     Pasuri   Lukumäärä: 3   Yhteispaino: 234   (Suurin: 119 g)
+     Sulkava   Lukumäärä: 2   Yhteispaino: 180   (Suurin: 93 g)
+     Sorva   Lukumäärä: 2   Yhteispaino: 118   (Suurin: 71 g)
+     -heikki- (C):
+     Ahven   Lukumäärä: 7   Yhteispaino: 198   (Suurin: 39 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 56   (Suurin: 26 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 415   (Suurin: 415 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 67   (Suurin: 32 g)
+     Seipi   Lukumäärä: 6   Yhteispaino: 212   (Suurin: 58 g)
+     Lahna   Lukumäärä: 2   Yhteispaino: 255   (Suurin: 175 g)
+     Pasuri   Lukumäärä: 1   Yhteispaino: 46   (Suurin: 46 g)
+     Sulkava   Lukumäärä: 1   Yhteispaino: 213   (Suurin: 213 g)
+     Säyne   Lukumäärä: 1   Yhteispaino: 865   (Suurin: 865 g)
+     Sorva   Lukumäärä: 2   Yhteispaino: 161   (Suurin: 115 g)
+     JUGI:
+     Ahven   Lukumäärä: 13   Yhteispaino: 818   (Suurin: 225 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 43   (Suurin: 18 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 453   (Suurin: 453 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 140   (Suurin: 32 g)
+     Seipi   Lukumäärä: 3   Yhteispaino: 124   (Suurin: 56 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 76   (Suurin: 76 g)
+     Pasuri   Lukumäärä: 9   Yhteispaino: 761   (Suurin: 163 g)
+     Sulkava   Lukumäärä: 3   Yhteispaino: 325   (Suurin: 133 g)
+     Säyne   Lukumäärä: 1   Yhteispaino: 680   (Suurin: 680 g)
+     Sorva   Lukumäärä: 1   Yhteispaino: 44   (Suurin: 44 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 7   Yhteispaino: 183   (Suurin: 41 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 28   (Suurin: 16 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 220   (Suurin: 42 g)
+     Seipi   Lukumäärä: 2   Yhteispaino: 123   (Suurin: 62 g)
+     Lahna   Lukumäärä: 2   Yhteispaino: 891   (Suurin: 784 g)
+     Pasuri   Lukumäärä: 5   Yhteispaino: 624   (Suurin: 242 g)
+     Sulkava   Lukumäärä: 5   Yhteispaino: 569   (Suurin: 144 g)
+     Säyne   Lukumäärä: 1   Yhteispaino: 242   (Suurin: 242 g)
+     Sorva   Lukumäärä: 1   Yhteispaino: 30   (Suurin: 30 g)
+     Kottage:
+     Ahven   Lukumäärä: 13   Yhteispaino: 468   (Suurin: 113 g)
+     Kiiski   Lukumäärä: 6   Yhteispaino: 73   (Suurin: 16 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 82   (Suurin: 34 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 32   (Suurin: 32 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 118   (Suurin: 118 g)
+     Pasuri   Lukumäärä: 5   Yhteispaino: 303   (Suurin: 80 g)
+     Sulkava   Lukumäärä: 3   Yhteispaino: 282   (Suurin: 99 g)
+     Sorva   Lukumäärä: 1   Yhteispaino: 42   (Suurin: 42 g)
+     Salakka   Lukumäärä: 1   Yhteispaino: 17   (Suurin: 17 g)
+     Sanna=) (A):
+     Ahven   Lukumäärä: 29   Yhteispaino: 1180   (Suurin: 281 g)
+     Kiiski   Lukumäärä: 6   Yhteispaino: 107   (Suurin: 23 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 163   (Suurin: 44 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 28   (Suurin: 28 g)
+     Lahna   Lukumäärä: 3   Yhteispaino: 959   (Suurin: 740 g)
+     Pasuri   Lukumäärä: 17   Yhteispaino: 1132   (Suurin: 162 g)
+     Sulkava   Lukumäärä: 3   Yhteispaino: 464   (Suurin: 156 g)
+     Sorva   Lukumäärä: 2   Yhteispaino: 101   (Suurin: 79 g)
+     Epi (A):
+     Ahven   Lukumäärä: 27   Yhteispaino: 3644   (Suurin: 374 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 36   (Suurin: 21 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 65   (Suurin: 33 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 55   (Suurin: 55 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 84   (Suurin: 84 g)
+     Pasuri   Lukumäärä: 15   Yhteispaino: 1381   (Suurin: 248 g)
+     Sulkava   Lukumäärä: 1   Yhteispaino: 186   (Suurin: 186 g)
+     Sorva   Lukumäärä: 3   Yhteispaino: 229   (Suurin: 93 g)
+     KalaKettu:
+     Ahven   Lukumäärä: 18   Yhteispaino: 1412   (Suurin: 351 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 56   (Suurin: 22 g)
+     Särki   Lukumäärä: 2   Yhteispaino: 54   (Suurin: 36 g)
+     Seipi   Lukumäärä: 4   Yhteispaino: 171   (Suurin: 58 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 85   (Suurin: 85 g)
+     Pasuri   Lukumäärä: 4   Yhteispaino: 366   (Suurin: 137 g)
+     Sulkava   Lukumäärä: 6   Yhteispaino: 677   (Suurin: 152 g)
+     Sorva   Lukumäärä: 8   Yhteispaino: 567   (Suurin: 87 g)
+     Allu.K:
+     Ahven   Lukumäärä: 16   Yhteispaino: 3064   (Suurin: 333 g)
+     Kiiski   Lukumäärä: 8   Yhteispaino: 127   (Suurin: 28 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 186   (Suurin: 75 g)
+     Seipi   Lukumäärä: 2   Yhteispaino: 62   (Suurin: 35 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 112   (Suurin: 112 g)
+     Pasuri   Lukumäärä: 3   Yhteispaino: 201   (Suurin: 89 g)
+     Sulkava   Lukumäärä: 3   Yhteispaino: 343   (Suurin: 154 g)
+     Sorva   Lukumäärä: 1   Yhteispaino: 46   (Suurin: 46 g)
+     kala-akka:
+     Ahven   Lukumäärä: 14   Yhteispaino: 984   (Suurin: 301 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 54   (Suurin: 35 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 172   (Suurin: 44 g)
+     Seipi   Lukumäärä: 7   Yhteispaino: 227   (Suurin: 41 g)
+     Pasuri   Lukumäärä: 9   Yhteispaino: 598   (Suurin: 81 g)
+     Sulkava   Lukumäärä: 2   Yhteispaino: 267   (Suurin: 150 g)
+     Säyne   Lukumäärä: 1   Yhteispaino: 238   (Suurin: 238 g)
+     Sorva   Lukumäärä: 2   Yhteispaino: 133   (Suurin: 80 g)
+     Pirkko:
+     Ahven   Lukumäärä: 10   Yhteispaino: 607   (Suurin: 262 g)
+     Kiiski   Lukumäärä: 8   Yhteispaino: 134   (Suurin: 24 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 34   (Suurin: 34 g)
+     Seipi   Lukumäärä: 4   Yhteispaino: 124   (Suurin: 43 g)
+     Lahna   Lukumäärä: 2   Yhteispaino: 179   (Suurin: 105 g)
+     Pasuri   Lukumäärä: 2   Yhteispaino: 158   (Suurin: 107 g)
+     Sulkava   Lukumäärä: 7   Yhteispaino: 793   (Suurin: 153 g)
+     Sorva   Lukumäärä: 4   Yhteispaino: 263   (Suurin: 87 g)
+     Kala-ukko (C):
+     Ahven   Lukumäärä: 10   Yhteispaino: 258   (Suurin: 71 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 79   (Suurin: 24 g)
+     Särki   Lukumäärä: 13   Yhteispaino: 411   (Suurin: 43 g)
+     Seipi   Lukumäärä: 5   Yhteispaino: 149   (Suurin: 39 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 85   (Suurin: 85 g)
+     Pasuri   Lukumäärä: 17   Yhteispaino: 1175   (Suurin: 217 g)
+     Sulkava   Lukumäärä: 10   Yhteispaino: 1432   (Suurin: 173 g)
+     Sorva   Lukumäärä: 4   Yhteispaino: 216   (Suurin: 73 g)
+     Juku6.1 (A):
+     Ahven   Lukumäärä: 11   Yhteispaino: 303   (Suurin: 76 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 47   (Suurin: 17 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 95   (Suurin: 37 g)
+     Seipi   Lukumäärä: 2   Yhteispaino: 59   (Suurin: 35 g)
+     Lahna   Lukumäärä: 3   Yhteispaino: 360   (Suurin: 203 g)
+     Pasuri   Lukumäärä: 12   Yhteispaino: 997   (Suurin: 196 g)
+     Sulkava   Lukumäärä: 2   Yhteispaino: 363   (Suurin: 192 g)
+     Sorva   Lukumäärä: 4   Yhteispaino: 222   (Suurin: 68 g)
+     Kokitar:
+     Ahven   Lukumäärä: 14   Yhteispaino: 647   (Suurin: 110 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 19   (Suurin: 19 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 20   (Suurin: 20 g)
+     Seipi   Lukumäärä: 1   Yhteispaino: 30   (Suurin: 30 g)
+     Lahna   Lukumäärä: 3   Yhteispaino: 397   (Suurin: 156 g)
+     Pasuri   Lukumäärä: 7   Yhteispaino: 436   (Suurin: 134 g)
+     Sulkava   Lukumäärä: 2   Yhteispaino: 346   (Suurin: 180 g)
+     Sorva   Lukumäärä: 5   Yhteispaino: 312   (Suurin: 83 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 17   Yhteispaino: 848   (Suurin: 142 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 80   (Suurin: 28 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 36   (Suurin: 36 g)
+     Seipi   Lukumäärä: 6   Yhteispaino: 206   (Suurin: 63 g)
+     Pasuri   Lukumäärä: 11   Yhteispaino: 1097   (Suurin: 236 g)
+     Sulkava   Lukumäärä: 3   Yhteispaino: 328   (Suurin: 127 g)
+     Sorva   Lukumäärä: 2   Yhteispaino: 79   (Suurin: 56 g)
+     jäppinen:
+     Ahven   Lukumäärä: 20   Yhteispaino: 2213   (Suurin: 407 g)
+     Särki   Lukumäärä: 6   Yhteispaino: 156   (Suurin: 43 g)
+     Pasuri   Lukumäärä: 3   Yhteispaino: 159   (Suurin: 65 g)
+     Sulkava   Lukumäärä: 7   Yhteispaino: 830   (Suurin: 140 g)
+     Sorva   Lukumäärä: 3   Yhteispaino: 187   (Suurin: 77 g)
+     Quu-Ukko Host:
+     Isoin kala:
+
+New LAN CLIENT competition started: Linlonlahti. (20.1. 9:20/ 30 min/ Medium / All species / Normal ice) [08.11.2020 21:13]
+Competition finished. Results:
+       1. [TOK] Anakonda (A) [FIN]  9395 g
+       2. [SK] Sanna=) (A) [FIN]  6479 g
+       3. [SK] Juku6.1 (A) [FIN]  6460 g
+       4. [SK] Kala-ukko (C) [FIN]  6117 g
+       5. [TOK] JUGI [FIN]  5465 g
+      *6. [TOK] ED (C) [FIN]  5225 g
+       7. [TOK] oke [FIN]  4943 g
+       8. [SK] Kokitar [FI]  4463 g
+       9. [SK] Pirkko [FIN]  3878 g
+       10. [TOK] Ipe [FIN]  3862 g
+       11. [SK] -heikki- (C) [FI]  3364 g
+       12. [SK] jäppinen [FIN]  2992 g
+       13. [TOK] $T$ [FIN]  2886 g
+       14. [TOK] Epi (A) [FIN]  1429 g
+       15. [TOK] Allu.K [FIN]  1406 g
+       16. [SK] kala-akka [FIN]  951 g
+       17. [TOK] Quu-Ukko Host [FIN]  0 g
+     Omat kalat:
+     Ahven   Lukumäärä: 13   Yhteispaino: 1386   (Suurin: 156 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 56   (Suurin: 23 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 790   (Suurin: 790 g)
+     Särki   Lukumäärä: 9   Yhteispaino: 545   (Suurin: 73 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 758   (Suurin: 758 g)
+     Pasuri   Lukumäärä: 5   Yhteispaino: 1118   (Suurin: 313 g)
+     Sorva   Lukumäärä: 2   Yhteispaino: 572   (Suurin: 353 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 32   Yhteispaino: 6520   (Suurin: 418 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 24   (Suurin: 24 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 1710   (Suurin: 1710 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 799   (Suurin: 799 g)
+     Särki   Lukumäärä: 6   Yhteispaino: 342   (Suurin: 70 g)
+     Sanna=) (A):
+     Ahven   Lukumäärä: 22   Yhteispaino: 1346   (Suurin: 149 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 22   (Suurin: 22 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 1570   (Suurin: 1570 g)
+     Särki   Lukumäärä: 14   Yhteispaino: 792   (Suurin: 81 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 467   (Suurin: 467 g)
+     Pasuri   Lukumäärä: 11   Yhteispaino: 2282   (Suurin: 249 g)
+     Juku6.1 (A):
+     Ahven   Lukumäärä: 38   Yhteispaino: 5658   (Suurin: 370 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 77   (Suurin: 39 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 725   (Suurin: 725 g)
+     Kala-ukko (C):
+     Ahven   Lukumäärä: 16   Yhteispaino: 1257   (Suurin: 190 g)
+     Kiiski   Lukumäärä: 5   Yhteispaino: 100   (Suurin: 26 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 2956   (Suurin: 2956 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 1276   (Suurin: 463 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 295   (Suurin: 63 g)
+     Pasuri   Lukumäärä: 1   Yhteispaino: 233   (Suurin: 233 g)
+     JUGI:
+     Ahven   Lukumäärä: 3   Yhteispaino: 487   (Suurin: 316 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 36   (Suurin: 19 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 2325   (Suurin: 2325 g)
+     Kuha   Lukumäärä: 1   Yhteispaino: 409   (Suurin: 409 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 43   (Suurin: 43 g)
+     Pasuri   Lukumäärä: 6   Yhteispaino: 1311   (Suurin: 241 g)
+     Säyne   Lukumäärä: 1   Yhteispaino: 607   (Suurin: 607 g)
+     Sorva   Lukumäärä: 1   Yhteispaino: 247   (Suurin: 247 g)
+     oke:
+     Ahven   Lukumäärä: 31   Yhteispaino: 3136   (Suurin: 297 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 61   (Suurin: 30 g)
+     Särki   Lukumäärä: 6   Yhteispaino: 327   (Suurin: 67 g)
+     Sorva   Lukumäärä: 5   Yhteispaino: 1419   (Suurin: 385 g)
+     Kokitar:
+     Ahven   Lukumäärä: 8   Yhteispaino: 1301   (Suurin: 275 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 19   (Suurin: 19 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 43   (Suurin: 43 g)
+     Pasuri   Lukumäärä: 10   Yhteispaino: 2146   (Suurin: 275 g)
+     Sorva   Lukumäärä: 3   Yhteispaino: 954   (Suurin: 358 g)
+     Pirkko:
+     Ahven   Lukumäärä: 4   Yhteispaino: 471   (Suurin: 314 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 138   (Suurin: 26 g)
+     Kuha   Lukumäärä: 3   Yhteispaino: 1377   (Suurin: 548 g)
+     Siika   Lukumäärä: 4   Yhteispaino: 1892   (Suurin: 499 g)
+     Ipe:
+     Ahven   Lukumäärä: 5   Yhteispaino: 1124   (Suurin: 343 g)
+     Kiiski   Lukumäärä: 5   Yhteispaino: 90   (Suurin: 21 g)
+     Kuha   Lukumäärä: 2   Yhteispaino: 2366   (Suurin: 1948 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 282   (Suurin: 72 g)
+     -heikki- (C):
+     Ahven   Lukumäärä: 2   Yhteispaino: 685   (Suurin: 565 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 42   (Suurin: 42 g)
+     Kuha   Lukumäärä: 2   Yhteispaino: 968   (Suurin: 530 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 168   (Suurin: 68 g)
+     Pasuri   Lukumäärä: 4   Yhteispaino: 916   (Suurin: 252 g)
+     Sorva   Lukumäärä: 2   Yhteispaino: 585   (Suurin: 332 g)
+     jäppinen:
+     Ahven   Lukumäärä: 31   Yhteispaino: 2955   (Suurin: 179 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 37   (Suurin: 37 g)
+     $T$:
+     Ahven   Lukumäärä: 8   Yhteispaino: 458   (Suurin: 69 g)
+     Kuore   Lukumäärä: 1   Yhteispaino: 41   (Suurin: 41 g)
+     Särki   Lukumäärä: 4   Yhteispaino: 230   (Suurin: 66 g)
+     Lahna   Lukumäärä: 2   Yhteispaino: 595   (Suurin: 345 g)
+     Sorva   Lukumäärä: 5   Yhteispaino: 1562   (Suurin: 385 g)
+     Epi (A):
+     Ahven   Lukumäärä: 2   Yhteispaino: 166   (Suurin: 86 g)
+     Kuha   Lukumäärä: 2   Yhteispaino: 1204   (Suurin: 715 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 59   (Suurin: 59 g)
+     Allu.K:
+     Ahven   Lukumäärä: 12   Yhteispaino: 898   (Suurin: 101 g)
+     Kiiski   Lukumäärä: 6   Yhteispaino: 132   (Suurin: 36 g)
+     Kuore   Lukumäärä: 2   Yhteispaino: 69   (Suurin: 41 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 70   (Suurin: 70 g)
+     Pasuri   Lukumäärä: 1   Yhteispaino: 237   (Suurin: 237 g)
+     kala-akka:
+     Ahven   Lukumäärä: 10   Yhteispaino: 783   (Suurin: 173 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 10   (Suurin: 10 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 158   (Suurin: 70 g)
+     Quu-Ukko Host:
+     Isoin kala:
+     Kala-ukko (C)  Kuha  2956 g

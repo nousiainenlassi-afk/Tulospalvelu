@@ -1,0 +1,271 @@
+TKN (86) 4 - 2 (82) TOK
+39-17, 30-26, 17-39
+
+New LAN CLIENT competition started: Pitkälampi. (8.11. 12:10/ 30 min/ Medium / Normal / Normal ice) [03.01.2021 20:00]
+New teamplay started [SM-liiga20_Kierros11_TKN-TOK] [03.01.2021 20:00:00]
+Competition finished. Results:
+       1. [TKN] Norsu [FIN]  2656 g
+       2. [TOK] Anakonda (A) [FIN]  1595 g
+       3. [TKN] KIDIZ  1474 g
+       4. [TKN] NatoTaimen (C) [FIN]  1227 g
+       5. [TKN] Nökerö  1134 g
+       6. [TKN] jalmari  1119 g
+       7. [TOK] Epi (A) [FIN]  1119 g
+       8. [TOK] Ipe [FIN]  1080 g
+       9. [TKN] bruno  955 g
+       10. [TOK] Kottage [FIN]  858 g
+       11. [TOK] oke [FIN]  821 g
+       12. [TOK] Allu.K [FIN]  802 g
+      *13. [TKN] Aanrii(C)  746 g
+       14. [TOK] Quu-Ukko [FIN]  428 g
+       15. [TKN] markku mato [FIN]  277 g
+       16. [TOK] JUGI [FIN]  67 g
+     Omat kalat:
+     Ahven   Lukumäärä: 16   Yhteispaino: 746   (Suurin: 117 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 98   (Suurin: 65 g)
+     Norsu:
+     Ahven   Lukumäärä: 7   Yhteispaino: 692   (Suurin: 443 g)
+     Kiiski   Lukumäärä: 10   Yhteispaino: 181   (Suurin: 30 g)
+     Hauki   Lukumäärä: 4   Yhteispaino: 1964   (Suurin: 755 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 35   Yhteispaino: 1010   (Suurin: 125 g)
+     Kiiski   Lukumäärä: 16   Yhteispaino: 172   (Suurin: 28 g)
+     Hauki   Lukumäärä: 2   Yhteispaino: 585   (Suurin: 297 g)
+     KIDIZ:
+     Ahven   Lukumäärä: 24   Yhteispaino: 1474   (Suurin: 326 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 34   (Suurin: 18 g)
+     NatoTaimen (C):
+     Ahven   Lukumäärä: 19   Yhteispaino: 569   (Suurin: 67 g)
+     Kiiski   Lukumäärä: 9   Yhteispaino: 159   (Suurin: 29 g)
+     Hauki   Lukumäärä: 2   Yhteispaino: 658   (Suurin: 351 g)
+     Nökerö:
+     Ahven   Lukumäärä: 17   Yhteispaino: 1134   (Suurin: 437 g)
+     Kiiski   Lukumäärä: 25   Yhteispaino: 505   (Suurin: 78 g)
+     jalmari:
+     Ahven   Lukumäärä: 18   Yhteispaino: 1119   (Suurin: 356 g)
+     Kiiski   Lukumäärä: 17   Yhteispaino: 221   (Suurin: 42 g)
+     Epi (A):
+     Ahven   Lukumäärä: 17   Yhteispaino: 1119   (Suurin: 225 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 30   (Suurin: 17 g)
+     Ipe:
+     Ahven   Lukumäärä: 14   Yhteispaino: 1080   (Suurin: 462 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 38   (Suurin: 21 g)
+     bruno:
+     Ahven   Lukumäärä: 11   Yhteispaino: 595   (Suurin: 162 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 20   (Suurin: 20 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 360   (Suurin: 360 g)
+     Kottage:
+     Ahven   Lukumäärä: 18   Yhteispaino: 858   (Suurin: 96 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 38   (Suurin: 13 g)
+     oke:
+     Ahven   Lukumäärä: 27   Yhteispaino: 821   (Suurin: 72 g)
+     Kiiski   Lukumäärä: 6   Yhteispaino: 57   (Suurin: 16 g)
+     Allu.K:
+     Ahven   Lukumäärä: 26   Yhteispaino: 802   (Suurin: 58 g)
+     Kiiski   Lukumäärä: 34   Yhteispaino: 514   (Suurin: 53 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 7   Yhteispaino: 210   (Suurin: 69 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 15   (Suurin: 15 g)
+     Hauki   Lukumäärä: 1   Yhteispaino: 218   (Suurin: 218 g)
+     markku mato:
+     Ahven   Lukumäärä: 9   Yhteispaino: 277   (Suurin: 83 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 46   (Suurin: 38 g)
+     JUGI:
+     Ahven   Lukumäärä: 5   Yhteispaino: 67   (Suurin: 17 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 41   (Suurin: 14 g)
+     Isoin kala:
+     Norsu  Hauki  755 g
+
+New LAN CLIENT competition started: Iso-Söimi. (20.11. 9:20/ 30 min/ Medium / Normal / Slippery ice) [03.01.2021 20:36]
+Competition finished. Results:
+       1. [TKN] Nökerö  19943 g
+       2. [TOK] ED (C) [FIN]  14394 g
+       3. [TKN] NatoTaimen (C) [FIN]  11672 g
+       4. [TOK] Ipe [FIN]  11181 g
+       5. [TOK] JUGI [FIN]  10199 g
+       6. [TKN] jalmari  8820 g
+       7. [TKN] markku mato [FIN]  8373 g
+       8. [TOK] Anakonda (A) [FIN]  8126 g
+      *9. [TKN] Aanrii(C)  8066 g
+       10. [TKN] KIDIZ  7145 g
+       11. [TOK] Epi (A) [FIN]  7076 g
+       12. [TOK] Kottage [FIN]  6994 g
+       13. [TOK] Allu.K [FIN]  5517 g
+       14. [TKN] bruno  5159 g
+       15. [TKN] Norsu [FIN]  2741 g
+       16. [TOK] MD [FIN]  2547 g
+     Omat kalat:
+     Ahven   Lukumäärä: 10   Yhteispaino: 397   (Suurin: 78 g)
+     Rautu   Lukumäärä: 10   Yhteispaino: 4096   (Suurin: 624 g)
+     Harjus   Lukumäärä: 9   Yhteispaino: 3573   (Suurin: 464 g)
+     Nökerö:
+     Rautu   Lukumäärä: 8   Yhteispaino: 2682   (Suurin: 473 g)
+     Harjus   Lukumäärä: 12   Yhteispaino: 4370   (Suurin: 495 g)
+     Siika   Lukumäärä: 34   Yhteispaino: 12891   (Suurin: 669 g)
+     ED (C):
+     Ahven   Lukumäärä: 9   Yhteispaino: 306   (Suurin: 46 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 776   (Suurin: 776 g)
+     Rautu   Lukumäärä: 3   Yhteispaino: 1787   (Suurin: 1072 g)
+     Harjus   Lukumäärä: 21   Yhteispaino: 8672   (Suurin: 731 g)
+     Siika   Lukumäärä: 10   Yhteispaino: 2853   (Suurin: 556 g)
+     NatoTaimen (C):
+     Taimen   Lukumäärä: 1   Yhteispaino: 670   (Suurin: 670 g)
+     Rautu   Lukumäärä: 3   Yhteispaino: 1029   (Suurin: 489 g)
+     Harjus   Lukumäärä: 28   Yhteispaino: 9973   (Suurin: 467 g)
+     Ipe:
+     Rautu   Lukumäärä: 7   Yhteispaino: 2738   (Suurin: 532 g)
+     H.nieriä   Lukumäärä: 1   Yhteispaino: 583   (Suurin: 583 g)
+     Harjus   Lukumäärä: 11   Yhteispaino: 3918   (Suurin: 435 g)
+     Siika   Lukumäärä: 9   Yhteispaino: 3942   (Suurin: 636 g)
+     JUGI:
+     Taimen   Lukumäärä: 2   Yhteispaino: 2623   (Suurin: 1694 g)
+     Rautu   Lukumäärä: 16   Yhteispaino: 6623   (Suurin: 627 g)
+     H.nieriä   Lukumäärä: 1   Yhteispaino: 560   (Suurin: 560 g)
+     Siika   Lukumäärä: 4   Yhteispaino: 393   (Suurin: 118 g)
+     jalmari:
+     Rautu   Lukumäärä: 2   Yhteispaino: 857   (Suurin: 442 g)
+     Harjus   Lukumäärä: 18   Yhteispaino: 6691   (Suurin: 467 g)
+     Siika   Lukumäärä: 4   Yhteispaino: 1272   (Suurin: 607 g)
+     markku mato:
+     Taimen   Lukumäärä: 1   Yhteispaino: 690   (Suurin: 690 g)
+     Rautu   Lukumäärä: 4   Yhteispaino: 2316   (Suurin: 1031 g)
+     Harjus   Lukumäärä: 4   Yhteispaino: 1386   (Suurin: 417 g)
+     Siika   Lukumäärä: 10   Yhteispaino: 3981   (Suurin: 584 g)
+     Anakonda (A):
+     Rautu   Lukumäärä: 6   Yhteispaino: 2415   (Suurin: 460 g)
+     Harjus   Lukumäärä: 15   Yhteispaino: 5711   (Suurin: 740 g)
+     KIDIZ:
+     Rautu   Lukumäärä: 3   Yhteispaino: 999   (Suurin: 349 g)
+     H.nieriä   Lukumäärä: 1   Yhteispaino: 309   (Suurin: 309 g)
+     Harjus   Lukumäärä: 8   Yhteispaino: 2957   (Suurin: 416 g)
+     Siika   Lukumäärä: 10   Yhteispaino: 2880   (Suurin: 796 g)
+     Epi (A):
+     Taimen   Lukumäärä: 1   Yhteispaino: 779   (Suurin: 779 g)
+     Rautu   Lukumäärä: 16   Yhteispaino: 5400   (Suurin: 678 g)
+     Siika   Lukumäärä: 3   Yhteispaino: 897   (Suurin: 670 g)
+     Kottage:
+     Rautu   Lukumäärä: 1   Yhteispaino: 276   (Suurin: 276 g)
+     Harjus   Lukumäärä: 6   Yhteispaino: 2099   (Suurin: 401 g)
+     Siika   Lukumäärä: 13   Yhteispaino: 4619   (Suurin: 589 g)
+     Allu.K:
+     Ahven   Lukumäärä: 11   Yhteispaino: 345   (Suurin: 47 g)
+     H.nieriä   Lukumäärä: 1   Yhteispaino: 481   (Suurin: 481 g)
+     Harjus   Lukumäärä: 9   Yhteispaino: 4037   (Suurin: 785 g)
+     Siika   Lukumäärä: 2   Yhteispaino: 654   (Suurin: 345 g)
+     bruno:
+     Ahven   Lukumäärä: 2   Yhteispaino: 66   (Suurin: 41 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 1014   (Suurin: 1014 g)
+     Rautu   Lukumäärä: 2   Yhteispaino: 842   (Suurin: 463 g)
+     H.nieriä   Lukumäärä: 1   Yhteispaino: 762   (Suurin: 762 g)
+     Harjus   Lukumäärä: 8   Yhteispaino: 2368   (Suurin: 323 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 107   (Suurin: 107 g)
+     Norsu:
+     Rautu   Lukumäärä: 7   Yhteispaino: 2741   (Suurin: 667 g)
+     MD:
+     Ahven   Lukumäärä: 8   Yhteispaino: 248   (Suurin: 41 g)
+     Taimen   Lukumäärä: 1   Yhteispaino: 653   (Suurin: 653 g)
+     Harjus   Lukumäärä: 5   Yhteispaino: 1528   (Suurin: 345 g)
+     Siika   Lukumäärä: 1   Yhteispaino: 118   (Suurin: 118 g)
+     Isoin kala:
+     JUGI  Taimen  1694 g
+
+New LAN CLIENT competition started: Metsälampi. (12.3. 9:20/ 30 min/ Medium / All species / Normal ice) [03.01.2021 21:12]
+Competition finished. Results:
+       1. [TOK] Epi (A) [FIN]  4929 g
+      *2. [TKN] Aanrii(C)  4590 g
+       3. [TOK] MD [FIN]  4583 g
+       4. [TOK] Anakonda (A) [FIN]  4519 g
+       5. [TOK] ED (C) [FIN]  4342 g
+       6. [TKN] Nökerö  3639 g
+       7. [TOK] oke [FIN]  3435 g
+       8. [TOK] Quu-Ukko [FIN]  3308 g
+       9. [TKN] bruno  3192 g
+       10. [TOK] Allu.K [FIN]  2763 g
+       11. [TKN] markku mato [FIN]  2483 g
+       12. [TOK] JUGI [FIN]  2468 g
+       13. [TKN] KIDIZ  2413 g
+       14. [TKN] Norsu [FIN]  2131 g
+       15. [TKN] NatoTaimen (C) [FIN]  2057 g
+       16. [TKN] jalmari  1707 g
+     Omat kalat:
+     Ahven   Lukumäärä: 21   Yhteispaino: 913   (Suurin: 185 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 28   (Suurin: 20 g)
+     Särki   Lukumäärä: 21   Yhteispaino: 2365   (Suurin: 188 g)
+     Ruutana   Lukumäärä: 10   Yhteispaino: 1284   (Suurin: 250 g)
+     Epi (A):
+     Ahven   Lukumäärä: 26   Yhteispaino: 1562   (Suurin: 190 g)
+     Kiiski   Lukumäärä: 11   Yhteispaino: 274   (Suurin: 35 g)
+     Särki   Lukumäärä: 19   Yhteispaino: 1960   (Suurin: 156 g)
+     Ruutana   Lukumäärä: 9   Yhteispaino: 1133   (Suurin: 267 g)
+     MD:
+     Ahven   Lukumäärä: 33   Yhteispaino: 880   (Suurin: 67 g)
+     Sorva   Lukumäärä: 3   Yhteispaino: 177   (Suurin: 78 g)
+     Ruutana   Lukumäärä: 31   Yhteispaino: 3526   (Suurin: 301 g)
+     Anakonda (A):
+     Ahven   Lukumäärä: 2   Yhteispaino: 281   (Suurin: 158 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 78   (Suurin: 30 g)
+     Särki   Lukumäärä: 3   Yhteispaino: 298   (Suurin: 145 g)
+     Ruutana   Lukumäärä: 36   Yhteispaino: 3363   (Suurin: 144 g)
+     Suutari   Lukumäärä: 2   Yhteispaino: 499   (Suurin: 292 g)
+     ED (C):
+     Ahven   Lukumäärä: 37   Yhteispaino: 1161   (Suurin: 77 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 47   (Suurin: 29 g)
+     Ruutana   Lukumäärä: 31   Yhteispaino: 2893   (Suurin: 147 g)
+     Suutari   Lukumäärä: 1   Yhteispaino: 241   (Suurin: 241 g)
+     Nökerö:
+     Ahven   Lukumäärä: 17   Yhteispaino: 1504   (Suurin: 523 g)
+     Kiiski   Lukumäärä: 10   Yhteispaino: 205   (Suurin: 33 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 88   (Suurin: 88 g)
+     Lahna   Lukumäärä: 1   Yhteispaino: 290   (Suurin: 290 g)
+     Ruutana   Lukumäärä: 14   Yhteispaino: 1552   (Suurin: 269 g)
+     oke:
+     Ahven   Lukumäärä: 36   Yhteispaino: 1436   (Suurin: 171 g)
+     Kiiski   Lukumäärä: 7   Yhteispaino: 200   (Suurin: 45 g)
+     Särki   Lukumäärä: 17   Yhteispaino: 1799   (Suurin: 171 g)
+     Quu-Ukko:
+     Ahven   Lukumäärä: 3   Yhteispaino: 524   (Suurin: 274 g)
+     Kiiski   Lukumäärä: 16   Yhteispaino: 381   (Suurin: 31 g)
+     Sorva   Lukumäärä: 5   Yhteispaino: 322   (Suurin: 85 g)
+     Ruutana   Lukumäärä: 19   Yhteispaino: 2081   (Suurin: 150 g)
+     bruno:
+     Ahven   Lukumäärä: 19   Yhteispaino: 1184   (Suurin: 246 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 24   (Suurin: 24 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 439   (Suurin: 140 g)
+     Ruutana   Lukumäärä: 2   Yhteispaino: 1379   (Suurin: 1310 g)
+     Suutari   Lukumäärä: 1   Yhteispaino: 166   (Suurin: 166 g)
+     Allu.K:
+     Ahven   Lukumäärä: 22   Yhteispaino: 862   (Suurin: 173 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 86   (Suurin: 50 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 117   (Suurin: 117 g)
+     Sorva   Lukumäärä: 7   Yhteispaino: 399   (Suurin: 81 g)
+     Ruutana   Lukumäärä: 15   Yhteispaino: 1299   (Suurin: 128 g)
+     markku mato:
+     Ahven   Lukumäärä: 30   Yhteispaino: 1180   (Suurin: 169 g)
+     Särki   Lukumäärä: 8   Yhteispaino: 841   (Suurin: 155 g)
+     Ruutana   Lukumäärä: 4   Yhteispaino: 462   (Suurin: 189 g)
+     JUGI:
+     Ahven   Lukumäärä: 13   Yhteispaino: 376   (Suurin: 78 g)
+     Särki   Lukumäärä: 12   Yhteispaino: 1348   (Suurin: 182 g)
+     Ruutana   Lukumäärä: 1   Yhteispaino: 103   (Suurin: 103 g)
+     Suutari   Lukumäärä: 4   Yhteispaino: 641   (Suurin: 194 g)
+     KIDIZ:
+     Ahven   Lukumäärä: 3   Yhteispaino: 63   (Suurin: 44 g)
+     Kiiski   Lukumäärä: 2   Yhteispaino: 71   (Suurin: 48 g)
+     Särki   Lukumäärä: 7   Yhteispaino: 782   (Suurin: 182 g)
+     Ruutana   Lukumäärä: 15   Yhteispaino: 1497   (Suurin: 138 g)
+     Norsu:
+     Ahven   Lukumäärä: 20   Yhteispaino: 637   (Suurin: 75 g)
+     Kiiski   Lukumäärä: 4   Yhteispaino: 108   (Suurin: 38 g)
+     Särki   Lukumäärä: 5   Yhteispaino: 620   (Suurin: 154 g)
+     Ruutana   Lukumäärä: 6   Yhteispaino: 766   (Suurin: 175 g)
+     NatoTaimen (C):
+     Ahven   Lukumäärä: 6   Yhteispaino: 389   (Suurin: 172 g)
+     Kiiski   Lukumäärä: 3   Yhteispaino: 71   (Suurin: 30 g)
+     Ruutana   Lukumäärä: 17   Yhteispaino: 1597   (Suurin: 126 g)
+     jalmari:
+     Ahven   Lukumäärä: 23   Yhteispaino: 864   (Suurin: 192 g)
+     Kiiski   Lukumäärä: 1   Yhteispaino: 28   (Suurin: 28 g)
+     Särki   Lukumäärä: 1   Yhteispaino: 180   (Suurin: 180 g)
+     Ruutana   Lukumäärä: 5   Yhteispaino: 635   (Suurin: 223 g)
+     Isoin kala:
+     bruno  Ruutana  1310 g

@@ -1,0 +1,313 @@
+MV (84) 2 - 4 (84) TKN
+24-32, 25-31, 35-21
+
+New LAN SERVER competition started: Saarijärvi. (22.1. 12:10/ 30 min/ Medium / Normal / Normal ice) [14.11.2021 20:00]
+<-- Marko (C) [MV] [FIN] left the game. [14.11.2021 20:01]
+--> Marko (C) [MV] [FIN] joined the game (ip: 37.33.209.103). [14.11.2021 20:01] [/banaddress 37.33.209.103 60 Marko_(C)_[MV]_[FIN] 2227077477 dc91861004fa358c502df95b596f78dfb863235e] [v1.7 iOS]
+Competition finished. Results:
+1. [MV] Hauentappaja [FIN] 4819 g
+2. [TKN] Schape [FIN] 4033 g
+3. [TKN] Aanrii(C) 3356 g
+4. [MV] Madekikk [FIN] 2578 g
+5. [TKN] Norsu [FIN] 2509 g
+6. [TKN] jalmari 2344 g
+7. [TKN] Raivohullu 2212 g
+8. [MV] Atomi [FIN] 1616 g
+9. [MV] AtomiX (C) [FIN] 1375 g
+10. [MV] SatumiX [FIN] 1058 g
+11. [TKN] NatoTaimen (C) 1051 g
+12. [TKN] Nökerö 1012 g
+13. [MV] jani862 [FIN] 892 g
+14. [MV] Marko (C) [FIN] 711 g
+15. [MV] Kwaler [FIN] 528 g
+16. [TKN] markku mato [FIN] 0 g (disq)
+*17. -MiX ServeR- [FIN] 0 g
+Omat kalat:
+Hauentappaja:
+Ahven Lukumäärä: 21 Yhteispaino: 1462 (Suurin: 189 g)
+Kiiski Lukumäärä: 6 Yhteispaino: 209 (Suurin: 45 g)
+Hauki Lukumäärä: 1 Yhteispaino: 2013 (Suurin: 2013 g)
+Taimen Lukumäärä: 1 Yhteispaino: 857 (Suurin: 857 g)
+Särki Lukumäärä: 14 Yhteispaino: 487 (Suurin: 62 g)
+Schape:
+Ahven Lukumäärä: 16 Yhteispaino: 2216 (Suurin: 653 g)
+Särki Lukumäärä: 10 Yhteispaino: 405 (Suurin: 60 g)
+Lahna Lukumäärä: 4 Yhteispaino: 1412 (Suurin: 429 g)
+Aanrii(C):
+Ahven Lukumäärä: 26 Yhteispaino: 2486 (Suurin: 433 g)
+Kiiski Lukumäärä: 16 Yhteispaino: 325 (Suurin: 31 g)
+Kuha Lukumäärä: 1 Yhteispaino: 570 (Suurin: 570 g)
+Kuore Lukumäärä: 6 Yhteispaino: 148 (Suurin: 36 g)
+Särki Lukumäärä: 4 Yhteispaino: 152 (Suurin: 40 g)
+Madekikk:
+Ahven Lukumäärä: 22 Yhteispaino: 1645 (Suurin: 131 g)
+Kiiski Lukumäärä: 5 Yhteispaino: 144 (Suurin: 41 g)
+Kuha Lukumäärä: 1 Yhteispaino: 462 (Suurin: 462 g)
+Kuore Lukumäärä: 1 Yhteispaino: 28 (Suurin: 28 g)
+Särki Lukumäärä: 4 Yhteispaino: 79 (Suurin: 23 g)
+Lahna Lukumäärä: 1 Yhteispaino: 364 (Suurin: 364 g)
+Norsu:
+Ahven Lukumäärä: 12 Yhteispaino: 1696 (Suurin: 291 g)
+Kiiski Lukumäärä: 26 Yhteispaino: 491 (Suurin: 39 g)
+Särki Lukumäärä: 3 Yhteispaino: 88 (Suurin: 40 g)
+Lahna Lukumäärä: 2 Yhteispaino: 635 (Suurin: 363 g)
+Salakka Lukumäärä: 3 Yhteispaino: 90 (Suurin: 35 g)
+jalmari:
+Ahven Lukumäärä: 20 Yhteispaino: 1800 (Suurin: 219 g)
+Kiiski Lukumäärä: 26 Yhteispaino: 899 (Suurin: 45 g)
+Särki Lukumäärä: 2 Yhteispaino: 91 (Suurin: 56 g)
+Lahna Lukumäärä: 1 Yhteispaino: 453 (Suurin: 453 g)
+Raivohullu:
+Ahven Lukumäärä: 28 Yhteispaino: 2212 (Suurin: 252 g)
+Kiiski Lukumäärä: 5 Yhteispaino: 114 (Suurin: 27 g)
+Atomi:
+Ahven Lukumäärä: 28 Yhteispaino: 1193 (Suurin: 87 g)
+Kiiski Lukumäärä: 15 Yhteispaino: 306 (Suurin: 33 g)
+Särki Lukumäärä: 4 Yhteispaino: 137 (Suurin: 52 g)
+Lahna Lukumäärä: 1 Yhteispaino: 286 (Suurin: 286 g)
+AtomiX (C):
+Ahven Lukumäärä: 15 Yhteispaino: 730 (Suurin: 92 g)
+Särki Lukumäärä: 20 Yhteispaino: 645 (Suurin: 50 g)
+SatumiX:
+Ahven Lukumäärä: 18 Yhteispaino: 1032 (Suurin: 125 g)
+Kiiski Lukumäärä: 7 Yhteispaino: 194 (Suurin: 36 g)
+Kuore Lukumäärä: 1 Yhteispaino: 26 (Suurin: 26 g)
+NatoTaimen (C):
+Ahven Lukumäärä: 7 Yhteispaino: 282 (Suurin: 55 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 95 (Suurin: 31 g)
+Särki Lukumäärä: 11 Yhteispaino: 412 (Suurin: 59 g)
+Made Lukumäärä: 1 Yhteispaino: 357 (Suurin: 357 g)
+Nökerö:
+Ahven Lukumäärä: 5 Yhteispaino: 383 (Suurin: 253 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 61 (Suurin: 17 g)
+Särki Lukumäärä: 16 Yhteispaino: 629 (Suurin: 66 g)
+jani862:
+Ahven Lukumäärä: 9 Yhteispaino: 892 (Suurin: 135 g)
+Marko (C):
+Ahven Lukumäärä: 9 Yhteispaino: 608 (Suurin: 93 g)
+Kiiski Lukumäärä: 22 Yhteispaino: 462 (Suurin: 39 g)
+Särki Lukumäärä: 4 Yhteispaino: 103 (Suurin: 49 g)
+Kwaler:
+Ahven Lukumäärä: 2 Yhteispaino: 256 (Suurin: 156 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 83 (Suurin: 29 g)
+Särki Lukumäärä: 7 Yhteispaino: 272 (Suurin: 62 g)
+Isoin kala:
+Hauentappaja Hauki 2013 g
+
+--> bruno [TKN] joined the game (ip: 176.72.141.222). [14.11.2021 20:32] [/banaddress 176.72.141.222 60 bruno_[TKN] 1827211496 ] [v1.7 Store]
+<-- Atomi [MV] [FIN] left the game. [14.11.2021 20:32]
+<-- Kwaler [MV] [FIN] left the game. [14.11.2021 20:32]
+--> Urheilukalastaja [MV] [FIN] joined the game (ip: 85.76.35.1). [14.11.2021 20:32] [/banaddress 85.76.35.1 60 Urheilukalastaja_[MV]_[FIN] 2416250051 e2e0a74730e182f6c552d5b52edaed9bb7286ebe] [v1.7.1]
+--> Gandalf Harmaanieriä [MV] [FIN] joined the game (ip: 87.95.76.11). [14.11.2021 20:32] [/banaddress 87.95.76.11 60 Gandalf_Harmaanieriä_[MV]_[FIN] 1601207390 f23584e16ec42bbe2e4a282ffbdd5f3ba4759529] [v1.7 Store]
+<-- jalmari [TKN] left the game. [14.11.2021 20:36]
+New LAN SERVER competition started: Taivallampi. (20.1. 9:20/ 30 min/ Medium / All species / Normal ice) [14.11.2021 20:36]
+Competition finished. Results:
+1. [TKN] Aanrii(C) 5033 g
+2. [MV] Hauentappaja [FIN] 4921 g
+3. [TKN] Raivohullu 4753 g
+4. [MV] AtomiX (C) [FIN] 4726 g
+5. [TKN] bruno 4552 g
+6. [MV] Marko (C) [FIN] 3900 g
+7. [TKN] NatoTaimen (C) 3682 g
+8. [MV] SatumiX [FIN] 3440 g
+9. [TKN] Schape [FIN] 2785 g
+10. [MV] Urheilukalastaja [FIN] 2749 g
+11. [TKN] Nökerö 2541 g
+12. [TKN] Norsu [FIN] 2481 g
+13. [TKN] markku mato [FIN] 2381 g
+14. [MV] jani862 [FIN] 2110 g
+15. [MV] Madekikk [FIN] 1648 g
+16. [MV] Gandalf Harmaanieriä [FIN] 737 g
+*17. -MiX ServeR- [FIN] 0 g
+Omat kalat:
+Aanrii(C):
+Ahven Lukumäärä: 37 Yhteispaino: 2623 (Suurin: 170 g)
+Kiiski Lukumäärä: 8 Yhteispaino: 218 (Suurin: 38 g)
+Hauki Lukumäärä: 2 Yhteispaino: 1762 (Suurin: 1378 g)
+Särki Lukumäärä: 7 Yhteispaino: 430 (Suurin: 81 g)
+Hauentappaja:
+Ahven Lukumäärä: 53 Yhteispaino: 4107 (Suurin: 281 g)
+Kiiski Lukumäärä: 3 Yhteispaino: 98 (Suurin: 40 g)
+Hauki Lukumäärä: 1 Yhteispaino: 112 (Suurin: 112 g)
+Särki Lukumäärä: 13 Yhteispaino: 604 (Suurin: 61 g)
+Raivohullu:
+Ahven Lukumäärä: 39 Yhteispaino: 3362 (Suurin: 559 g)
+Kiiski Lukumäärä: 7 Yhteispaino: 213 (Suurin: 43 g)
+Hauki Lukumäärä: 1 Yhteispaino: 303 (Suurin: 303 g)
+Särki Lukumäärä: 19 Yhteispaino: 875 (Suurin: 63 g)
+AtomiX (C):
+Ahven Lukumäärä: 41 Yhteispaino: 3742 (Suurin: 212 g)
+Kiiski Lukumäärä: 10 Yhteispaino: 285 (Suurin: 47 g)
+Hauki Lukumäärä: 1 Yhteispaino: 471 (Suurin: 471 g)
+Särki Lukumäärä: 2 Yhteispaino: 228 (Suurin: 128 g)
+bruno:
+Ahven Lukumäärä: 41 Yhteispaino: 3458 (Suurin: 264 g)
+Hauki Lukumäärä: 2 Yhteispaino: 891 (Suurin: 514 g)
+Särki Lukumäärä: 4 Yhteispaino: 203 (Suurin: 57 g)
+Marko (C):
+Ahven Lukumäärä: 39 Yhteispaino: 2798 (Suurin: 428 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 96 (Suurin: 34 g)
+Hauki Lukumäärä: 2 Yhteispaino: 886 (Suurin: 501 g)
+Särki Lukumäärä: 3 Yhteispaino: 120 (Suurin: 59 g)
+NatoTaimen (C):
+Ahven Lukumäärä: 13 Yhteispaino: 1001 (Suurin: 170 g)
+Kiiski Lukumäärä: 6 Yhteispaino: 148 (Suurin: 46 g)
+Särki Lukumäärä: 37 Yhteispaino: 2533 (Suurin: 158 g)
+SatumiX:
+Ahven Lukumäärä: 55 Yhteispaino: 2856 (Suurin: 104 g)
+Särki Lukumäärä: 10 Yhteispaino: 584 (Suurin: 74 g)
+Schape:
+Ahven Lukumäärä: 41 Yhteispaino: 1800 (Suurin: 89 g)
+Kiiski Lukumäärä: 14 Yhteispaino: 464 (Suurin: 52 g)
+Särki Lukumäärä: 9 Yhteispaino: 521 (Suurin: 104 g)
+Urheilukalastaja:
+Ahven Lukumäärä: 24 Yhteispaino: 1805 (Suurin: 208 g)
+Kiiski Lukumäärä: 10 Yhteispaino: 274 (Suurin: 38 g)
+Särki Lukumäärä: 10 Yhteispaino: 670 (Suurin: 81 g)
+Nökerö:
+Ahven Lukumäärä: 31 Yhteispaino: 972 (Suurin: 55 g)
+Kirjolohi Lukumäärä: 2 Yhteispaino: 989 (Suurin: 502 g)
+Särki Lukumäärä: 7 Yhteispaino: 580 (Suurin: 121 g)
+Norsu:
+Ahven Lukumäärä: 36 Yhteispaino: 1879 (Suurin: 277 g)
+Kiiski Lukumäärä: 3 Yhteispaino: 101 (Suurin: 39 g)
+Hauki Lukumäärä: 1 Yhteispaino: 166 (Suurin: 166 g)
+Särki Lukumäärä: 7 Yhteispaino: 335 (Suurin: 64 g)
+markku mato:
+Ahven Lukumäärä: 23 Yhteispaino: 1980 (Suurin: 195 g)
+Kiiski Lukumäärä: 5 Yhteispaino: 153 (Suurin: 37 g)
+Särki Lukumäärä: 4 Yhteispaino: 248 (Suurin: 82 g)
+jani862:
+Ahven Lukumäärä: 25 Yhteispaino: 1488 (Suurin: 119 g)
+Hauki Lukumäärä: 1 Yhteispaino: 622 (Suurin: 622 g)
+Madekikk:
+Ahven Lukumäärä: 25 Yhteispaino: 850 (Suurin: 62 g)
+Särki Lukumäärä: 10 Yhteispaino: 798 (Suurin: 110 g)
+Gandalf Harmaanieriä:
+Ahven Lukumäärä: 19 Yhteispaino: 642 (Suurin: 170 g)
+Särki Lukumäärä: 1 Yhteispaino: 95 (Suurin: 95 g)
+Isoin kala:
+Aanrii(C) Hauki 1378 g
+
+<-- Raivohullu [TKN] left the game. [14.11.2021 21:08]
+--> -sla- [TKN] [FIN] joined the game (ip: 78.27.87.90). [14.11.2021 21:08] [/banaddress 78.27.87.90 60 -sla-_[TKN]_[FIN] 1310717666 0200b06eee517eaa1c9644e63b157be00663bd8e] [v1.7.1]
+<-- Norsu [TKN] [FIN] left the game. [14.11.2021 21:08]
+--> Atomi [MV] [FIN] joined the game (ip: 62.113.169.50). [14.11.2021 21:09] [/banaddress 62.113.169.50 60 Atomi_[MV]_[FIN] 2697517346 61f0091e65d18394113672df54efbd659a2c9743] [v1.7 Store]
+<-- jani862 [MV] [FIN] left the game. [14.11.2021 21:10]
+--> Raivohullu [TKN] joined the game (ip: 84.230.2.51). [14.11.2021 21:10] [/banaddress 84.230.2.51 60 Raivohullu_[TKN] 1181183361 ] [v1.7.1]
+<-- Gandalf Harmaanieriä [MV] [FIN] left the game. [14.11.2021 21:10]
+--> Kwaler [MV] [FIN] joined the game (ip: 80.223.174.153). [14.11.2021 21:13] [/banaddress 80.223.174.153 60 Kwaler_[MV]_[FIN] 2475688435 4b0e5f8dc9a15eed22bea3b9643fcb8d8dd6686e] [v1.7 Store]
+New LAN SERVER competition started: Pieni Särkinen. (11.3. 9:20/ 30 min/ Medium / Only perch / Normal ice) [14.11.2021 21:13]
+Competition finished. Results:
+1. [MV] Kwaler [FIN] 1823 g
+2. [MV] Madekikk [FIN] 1105 g
+3. [MV] Urheilukalastaja [FIN] 1016 g
+4. [TKN] markku mato [FIN] 975 g
+5. [TKN] Schape [FIN] 956 g
+6. [MV] Hauentappaja [FIN] 883 g
+7. [TKN] NatoTaimen (C) 842 g
+8. [TKN] Nökerö 794 g
+9. [MV] SatumiX [FIN] 721 g
+10. [TKN] Aanrii(C) 567 g
+11. [MV] AtomiX (C) [FIN] 476 g
+12. [MV] Marko (C) [FIN] 385 g
+13. [MV] Atomi [FIN] 380 g
+14. [TKN] bruno 297 g
+15. [TKN] Raivohullu 247 g
+16. [TKN] -sla- [FIN] 107 g
+*17. -MiX ServeR- [FIN] 0 g
+Omat kalat:
+Kwaler:
+Ahven Lukumäärä: 17 Yhteispaino: 1823 (Suurin: 324 g)
+Hauki Lukumäärä: 2 Yhteispaino: 883 (Suurin: 644 g)
+Särki Lukumäärä: 2 Yhteispaino: 65 (Suurin: 35 g)
+Pasuri Lukumäärä: 2 Yhteispaino: 180 (Suurin: 146 g)
+Sorva Lukumäärä: 5 Yhteispaino: 403 (Suurin: 90 g)
+Madekikk:
+Ahven Lukumäärä: 21 Yhteispaino: 1105 (Suurin: 142 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 79 (Suurin: 26 g)
+Hauki Lukumäärä: 2 Yhteispaino: 1241 (Suurin: 973 g)
+Särki Lukumäärä: 15 Yhteispaino: 648 (Suurin: 61 g)
+Pasuri Lukumäärä: 1 Yhteispaino: 64 (Suurin: 64 g)
+Sorva Lukumäärä: 2 Yhteispaino: 161 (Suurin: 89 g)
+Urheilukalastaja:
+Ahven Lukumäärä: 23 Yhteispaino: 1016 (Suurin: 137 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 90 (Suurin: 24 g)
+Särki Lukumäärä: 3 Yhteispaino: 165 (Suurin: 76 g)
+Pasuri Lukumäärä: 1 Yhteispaino: 176 (Suurin: 176 g)
+Sorva Lukumäärä: 4 Yhteispaino: 325 (Suurin: 94 g)
+markku mato:
+Ahven Lukumäärä: 13 Yhteispaino: 975 (Suurin: 219 g)
+Kiiski Lukumäärä: 5 Yhteispaino: 106 (Suurin: 25 g)
+Särki Lukumäärä: 15 Yhteispaino: 1241 (Suurin: 205 g)
+Pasuri Lukumäärä: 2 Yhteispaino: 349 (Suurin: 201 g)
+Sorva Lukumäärä: 2 Yhteispaino: 166 (Suurin: 84 g)
+Schape:
+Ahven Lukumäärä: 7 Yhteispaino: 956 (Suurin: 254 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 95 (Suurin: 40 g)
+Hauki Lukumäärä: 1 Yhteispaino: 369 (Suurin: 369 g)
+Särki Lukumäärä: 1 Yhteispaino: 31 (Suurin: 31 g)
+Pasuri Lukumäärä: 1 Yhteispaino: 58 (Suurin: 58 g)
+Sorva Lukumäärä: 8 Yhteispaino: 643 (Suurin: 124 g)
+Hauentappaja:
+Ahven Lukumäärä: 22 Yhteispaino: 883 (Suurin: 193 g)
+Kiiski Lukumäärä: 15 Yhteispaino: 324 (Suurin: 34 g)
+Hauki Lukumäärä: 1 Yhteispaino: 273 (Suurin: 273 g)
+Särki Lukumäärä: 7 Yhteispaino: 192 (Suurin: 37 g)
+Pasuri Lukumäärä: 6 Yhteispaino: 659 (Suurin: 160 g)
+NatoTaimen (C):
+Ahven Lukumäärä: 17 Yhteispaino: 842 (Suurin: 248 g)
+Särki Lukumäärä: 9 Yhteispaino: 198 (Suurin: 30 g)
+Sorva Lukumäärä: 3 Yhteispaino: 230 (Suurin: 92 g)
+Nökerö:
+Ahven Lukumäärä: 12 Yhteispaino: 794 (Suurin: 158 g)
+Kiiski Lukumäärä: 8 Yhteispaino: 187 (Suurin: 30 g)
+Särki Lukumäärä: 16 Yhteispaino: 841 (Suurin: 199 g)
+SatumiX:
+Ahven Lukumäärä: 15 Yhteispaino: 721 (Suurin: 159 g)
+Kiiski Lukumäärä: 2 Yhteispaino: 38 (Suurin: 20 g)
+Särki Lukumäärä: 9 Yhteispaino: 253 (Suurin: 35 g)
+Pasuri Lukumäärä: 2 Yhteispaino: 174 (Suurin: 108 g)
+Sorva Lukumäärä: 4 Yhteispaino: 410 (Suurin: 165 g)
+Aanrii(C):
+Ahven Lukumäärä: 14 Yhteispaino: 567 (Suurin: 137 g)
+Kiiski Lukumäärä: 2 Yhteispaino: 31 (Suurin: 18 g)
+Särki Lukumäärä: 14 Yhteispaino: 535 (Suurin: 60 g)
+Pasuri Lukumäärä: 3 Yhteispaino: 337 (Suurin: 223 g)
+Sorva Lukumäärä: 3 Yhteispaino: 219 (Suurin: 80 g)
+AtomiX (C):
+Ahven Lukumäärä: 11 Yhteispaino: 476 (Suurin: 215 g)
+Kiiski Lukumäärä: 9 Yhteispaino: 171 (Suurin: 27 g)
+Särki Lukumäärä: 5 Yhteispaino: 208 (Suurin: 50 g)
+Sorva Lukumäärä: 1 Yhteispaino: 126 (Suurin: 126 g)
+Marko (C):
+Ahven Lukumäärä: 6 Yhteispaino: 385 (Suurin: 242 g)
+Kiiski Lukumäärä: 4 Yhteispaino: 60 (Suurin: 19 g)
+Särki Lukumäärä: 4 Yhteispaino: 185 (Suurin: 61 g)
+Pasuri Lukumäärä: 5 Yhteispaino: 438 (Suurin: 145 g)
+Sorva Lukumäärä: 3 Yhteispaino: 339 (Suurin: 119 g)
+Atomi:
+Ahven Lukumäärä: 14 Yhteispaino: 380 (Suurin: 47 g)
+Särki Lukumäärä: 12 Yhteispaino: 900 (Suurin: 201 g)
+Pasuri Lukumäärä: 5 Yhteispaino: 266 (Suurin: 63 g)
+Sulkava Lukumäärä: 2 Yhteispaino: 163 (Suurin: 91 g)
+bruno:
+Ahven Lukumäärä: 9 Yhteispaino: 297 (Suurin: 120 g)
+Kiiski Lukumäärä: 3 Yhteispaino: 76 (Suurin: 28 g)
+Särki Lukumäärä: 7 Yhteispaino: 223 (Suurin: 48 g)
+Sorva Lukumäärä: 1 Yhteispaino: 60 (Suurin: 60 g)
+Raivohullu:
+Ahven Lukumäärä: 10 Yhteispaino: 247 (Suurin: 30 g)
+Kiiski Lukumäärä: 11 Yhteispaino: 237 (Suurin: 31 g)
+Särki Lukumäärä: 26 Yhteispaino: 1156 (Suurin: 165 g)
+Pasuri Lukumäärä: 3 Yhteispaino: 142 (Suurin: 53 g)
+Sorva Lukumäärä: 1 Yhteispaino: 92 (Suurin: 92 g)
+-sla-:
+Ahven Lukumäärä: 5 Yhteispaino: 107 (Suurin: 33 g)
+Kiiski Lukumäärä: 6 Yhteispaino: 185 (Suurin: 58 g)
+Hauki Lukumäärä: 1 Yhteispaino: 227 (Suurin: 227 g)
+Särki Lukumäärä: 1 Yhteispaino: 19 (Suurin: 19 g)
+Pasuri Lukumäärä: 1 Yhteispaino: 44 (Suurin: 44 g)
+Sorva Lukumäärä: 3 Yhteispaino: 254 (Suurin: 94 g)
+Isoin kala:
+Kwaler Ahven 324 g
